@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T00:36:18.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.3" etag="pnnRF0DctEQkP50OvaK1" type="github"><diagram id="wFqJ9D_wtZ_qf9VDlLL7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-25T00:41:22.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CPSH5b9w-RZxpSTzl_WV" version="20.1.3" type="github">
+  <diagram id="wFqJ9D_wtZ_qf9VDlLL7" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w1ihY2law0qxPt3G3yZp-1" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;多租户&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1ihY2law0qxPt3G3yZp-2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;分账&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1ihY2law0qxPt3G3yZp-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="w1ihY2law0qxPt3G3yZp-3" target="w1ihY2law0qxPt3G3yZp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w1ihY2law0qxPt3G3yZp-3" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;线上结算&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w1ihY2law0qxPt3G3yZp-4" value="&lt;h1&gt;需求&lt;/h1&gt;&lt;div&gt;&lt;div&gt;多租户，跟药店进行线上结算，处方的流转要根据开方医生的经济人所关联的药店作为依据&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="510" y="120" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="w1ihY2law0qxPt3G3yZp-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;代理商区域药店&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
