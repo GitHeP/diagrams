@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T08:54:17.314Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FRoPYa1wsFrlbRz3VBPD" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T09:00:53.146Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="pIvwegGbb0qvLOR0pMDF" version="20.1.3" type="github">
   <diagram id="FB3oiVCDdu1StfZkIanC" name="第 1 页">
     <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -215,13 +215,13 @@
           <mxGeometry x="320" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-79" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;经纪人APP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;fontColor=#0D47A1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="490" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-80" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;医生端APP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;fontColor=#0D47A1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="660" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="630" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wnDvW4o2_6gSg0_ogFNA-81" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;患者端APP&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;fontColor=#0D47A1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="830" y="820" width="120" height="60" as="geometry" />
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-81" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;患者端小程序&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;fontColor=#0D47A1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="780" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-82" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;运营层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=16;fillColor=#FFE0B2;gradientColor=none;fontColor=#0D47A1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="140" y="720" width="125.5" height="70" as="geometry" />
@@ -234,6 +234,9 @@
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-87" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;第三方合作&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;fontColor=#0D47A1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="910" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-88" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;H5&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=16;fillColor=#cce5ff;strokeColor=#36393d;fontColor=#0D47A1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="920" y="820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
