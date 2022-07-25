@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T10:03:59.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8oD__NLPElj4RUklg4KZ" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T10:04:56.388Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="boeAohQvxbHq1LKmbQ5e" version="20.1.3" type="github">
   <diagram id="897C7ZxnjxDklEcfM_nH" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="660" y="350" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AHRhEWRI0PKgLRRRAJqj-24" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/cornavirus-covid-19/64/_bed_rest_sleep_sick_patient_bed_rest-128.png;fontSize=16;fillColor=#8DD990;" vertex="1" parent="1">
-          <mxGeometry x="464" y="540" width="140" height="140" as="geometry" />
+          <mxGeometry x="464" y="540" width="156" height="156" as="geometry" />
         </mxCell>
         <mxCell id="AHRhEWRI0PKgLRRRAJqj-25" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=16;fillColor=#8DD990;strokeColor=#8DD990;" vertex="1" parent="1">
           <mxGeometry x="516" y="430" width="36" height="100" as="geometry" />
@@ -60,6 +60,9 @@
             <mxPoint x="604" y="258" as="sourcePoint" />
             <mxPoint x="604" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="AHRhEWRI0PKgLRRRAJqj-36" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;监管机构认证&lt;br&gt;安全可靠&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="260" y="180" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
