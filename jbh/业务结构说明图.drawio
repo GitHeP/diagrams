@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T07:39:09.775Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="joEOhqU2532bz9DqcX7x" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T07:50:49.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1X2RbyTFsqjiiQbouWTx" version="20.1.3" type="github">
   <diagram id="FB3oiVCDdu1StfZkIanC" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,6 +72,45 @@
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-23" value="&lt;b&gt;处方管理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;" vertex="1" parent="1">
           <mxGeometry x="260" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Courier New;fontSize=16;" edge="1" parent="1" source="wnDvW4o2_6gSg0_ogFNA-25" target="wnDvW4o2_6gSg0_ogFNA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-80" width="440" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-26" value="代理商" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="5" width="50" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-27" value="&lt;b&gt;入驻&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-28" value="&lt;b&gt;处方池管理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="520" y="-20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-29" value="&lt;b&gt;经纪人管理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-20" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-32" value="&lt;b&gt;收入管理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="520" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-33" value="&lt;b&gt;货仓管理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="260" y="50" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-34" value="代理商服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-70" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-37" value="&lt;b&gt;结算管理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-38" value="&lt;b&gt;结算管理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="390" y="400" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-40" value="&lt;b&gt;结算管理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="520" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wnDvW4o2_6gSg0_ogFNA-41" value="&lt;b&gt;订单管理&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="390" y="50" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
