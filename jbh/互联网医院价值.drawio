@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T10:13:07.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EFp1LSIUhHEgyvBYCSTz" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T10:38:24.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_MDZXk1Iu5omeXnxOdZV" version="20.1.3" type="github">
   <diagram id="897C7ZxnjxDklEcfM_nH" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="AHRhEWRI0PKgLRRRAJqj-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/clinical-3/96/medicine_1-128.png;fontSize=23;fillColor=#8DD990;" vertex="1" parent="1">
           <mxGeometry x="110" y="281" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="AHRhEWRI0PKgLRRRAJqj-11" value="医药企业" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
-          <mxGeometry x="132" y="240" width="106" height="30" as="geometry" />
+        <mxCell id="AHRhEWRI0PKgLRRRAJqj-11" value="合作商入驻" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="132" y="240" width="128" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AHRhEWRI0PKgLRRRAJqj-14" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;助力数字化转型升级&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
           <mxGeometry x="210" y="300" width="230" height="40" as="geometry" />
