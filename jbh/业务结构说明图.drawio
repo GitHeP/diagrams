@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T09:25:16.519Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tSzfsV3h-Sx2vEn8RzCE" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T10:13:37.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rY_7U8F-3lcZYt75CdEZ" version="20.1.3" type="github">
   <diagram id="FB3oiVCDdu1StfZkIanC" name="第 1 页">
     <mxGraphModel dx="1422" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,37 +116,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="215" y="700" width="445" height="330" as="geometry" />
+          <mxGeometry x="850" y="290" width="445" height="330" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-44" value="患者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="65" y="795" width="50" height="80" as="geometry" />
+          <mxGeometry x="700" y="385" width="50" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-45" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;入驻&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="255" y="760" width="105" height="50" as="geometry" />
+          <mxGeometry x="890" y="350" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-46" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;健康咨询&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="385" y="760" width="105" height="50" as="geometry" />
+          <mxGeometry x="1020" y="350" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-47" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;健康评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="515" y="760" width="105" height="50" as="geometry" />
+          <mxGeometry x="1150" y="350" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-48" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;健康教育&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="255" y="825" width="105" height="55" as="geometry" />
+          <mxGeometry x="890" y="415" width="105" height="55" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-49" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;在线复诊&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="515" y="825" width="105" height="55" as="geometry" />
+          <mxGeometry x="1150" y="415" width="105" height="55" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-50" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;在线问诊&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="385" y="825" width="105" height="55" as="geometry" />
+          <mxGeometry x="1020" y="415" width="105" height="55" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-52" value="患者服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontStyle=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="235" y="710" width="110" height="30" as="geometry" />
+          <mxGeometry x="870" y="300" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-53" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;电子处方&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="255" y="890" width="105" height="50" as="geometry" />
+          <mxGeometry x="890" y="480" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-55" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;在线会诊&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="385" y="890" width="105" height="50" as="geometry" />
+          <mxGeometry x="1020" y="480" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-58" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;门店管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontStyle=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="395" y="120" width="100" height="40" as="geometry" />
@@ -155,16 +155,16 @@
           <mxGeometry x="265" y="560" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-108" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;健康档案&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="515" y="890" width="105" height="50" as="geometry" />
+          <mxGeometry x="1150" y="480" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-109" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;家庭医生&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="255" y="960" width="105" height="50" as="geometry" />
+          <mxGeometry x="890" y="550" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-110" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;慢病管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="385" y="960" width="105" height="50" as="geometry" />
+          <mxGeometry x="1020" y="550" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wnDvW4o2_6gSg0_ogFNA-111" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;健康监测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Courier New;fontSize=17;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="515" y="960" width="105" height="50" as="geometry" />
+          <mxGeometry x="1150" y="550" width="105" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
