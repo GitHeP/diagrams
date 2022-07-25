@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T03:07:17.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="PrjkM5rlQej8KxfQRlFm" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-25T03:15:30.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="nm4_h-crhSf2PO3XcTuI" version="20.1.3" type="github">
   <diagram id="R4xweMAqfwO3BosUm7iH" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,11 +92,11 @@
         </mxCell>
         <mxCell id="5QMFtwSGgLobkVOJC3eS-43" value="关注" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5QMFtwSGgLobkVOJC3eS-42">
           <mxGeometry x="-0.1927" y="-2" relative="1" as="geometry">
-            <mxPoint x="-6" y="-4" as="offset" />
+            <mxPoint x="-6" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5QMFtwSGgLobkVOJC3eS-27" value="点击关注&lt;br&gt;公众号" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="404" y="770" width="100" height="100" as="geometry" />
+          <mxGeometry x="404" y="780" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5QMFtwSGgLobkVOJC3eS-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5QMFtwSGgLobkVOJC3eS-37" target="5QMFtwSGgLobkVOJC3eS-23">
           <mxGeometry relative="1" as="geometry" />
@@ -114,7 +114,7 @@
         </mxCell>
         <mxCell id="5QMFtwSGgLobkVOJC3eS-47" value="未点击" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5QMFtwSGgLobkVOJC3eS-46">
           <mxGeometry x="-0.5778" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5QMFtwSGgLobkVOJC3eS-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5QMFtwSGgLobkVOJC3eS-44" target="5QMFtwSGgLobkVOJC3eS-51">
@@ -124,17 +124,54 @@
         </mxCell>
         <mxCell id="5QMFtwSGgLobkVOJC3eS-49" value="已点击" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5QMFtwSGgLobkVOJC3eS-48">
           <mxGeometry x="0.2941" y="1" relative="1" as="geometry">
-            <mxPoint y="10" as="offset" />
+            <mxPoint x="-41" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5QMFtwSGgLobkVOJC3eS-44" value="是否点击进入&lt;br&gt;医生诊室消息" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="660" y="870" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="5QMFtwSGgLobkVOJC3eS-50" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
-          <mxGeometry x="805" y="1020" width="70" height="70" as="geometry" />
+          <mxGeometry x="805" y="970" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5QMFtwSGgLobkVOJC3eS-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5QMFtwSGgLobkVOJC3eS-51" target="5QMFtwSGgLobkVOJC3eS-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="1060" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5QMFtwSGgLobkVOJC3eS-51" value="金柏河&lt;br&gt;小程序&lt;br&gt;登录页" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="1020" width="80" height="70" as="geometry" />
+          <mxGeometry x="800" y="970" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5QMFtwSGgLobkVOJC3eS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5QMFtwSGgLobkVOJC3eS-59" target="5QMFtwSGgLobkVOJC3eS-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1130" />
+              <mxPoint x="160" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QMFtwSGgLobkVOJC3eS-63" value="未登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5QMFtwSGgLobkVOJC3eS-62">
+          <mxGeometry x="-0.4369" y="1" relative="1" as="geometry">
+            <mxPoint x="30" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QMFtwSGgLobkVOJC3eS-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5QMFtwSGgLobkVOJC3eS-59" target="5QMFtwSGgLobkVOJC3eS-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="1200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QMFtwSGgLobkVOJC3eS-65" value="已登录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5QMFtwSGgLobkVOJC3eS-64">
+          <mxGeometry x="-0.5704" y="-3" relative="1" as="geometry">
+            <mxPoint x="7" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QMFtwSGgLobkVOJC3eS-59" value="是否登录" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="790" y="1080" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5QMFtwSGgLobkVOJC3eS-66" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.flowchart.on-page_reference;" vertex="1" parent="1">
+          <mxGeometry x="945" y="1210" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="5QMFtwSGgLobkVOJC3eS-67" value="金柏河&lt;br&gt;小程序&lt;br&gt;首页" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1210" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
