@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-07-25T09:27:52.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.3" etag="U6mnQBjvOlg7zihNxg_I" type="github"><diagram id="897C7ZxnjxDklEcfM_nH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-25T09:33:46.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="R1Z7SlUTHrBOz-jlzAkd" version="20.1.3" type="github">
+  <diagram id="897C7ZxnjxDklEcfM_nH" name="第 1 页">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AHRhEWRI0PKgLRRRAJqj-6" value="金柏河互联网医院" style="rounded=1;whiteSpace=wrap;html=1;fontSize=23;fillColor=#8DD990;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="AHRhEWRI0PKgLRRRAJqj-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/clinical-3/96/medicine_1-128.png;fontSize=23;fillColor=#8DD990;" vertex="1" parent="1">
+          <mxGeometry x="110" y="281" width="128" height="128" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
