@@ -1,41 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T02:04:57.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="4DpIcU0RAMDgXHoMFV1W" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T02:08:22.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="TLNv1tHmFLCrNGUHXIc8" version="20.1.3" type="github">
   <diagram id="KP49BWcJ2xEg14fMhSnt" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-1" value="&lt;font color=&quot;#0d47a1&quot; style=&quot;font-size: 25px;&quot;&gt;互联网医院&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#0D47A1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="160" width="660" height="40" as="geometry" />
+          <mxGeometry x="90" y="120" width="660" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;应用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=25;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="210" width="70" height="60" as="geometry" />
+          <mxGeometry x="90" y="170" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="210" width="580" height="60" as="geometry" />
+          <mxGeometry x="170" y="170" width="580" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/mobile-and-internet-business/505/sms-128.png;fontSize=20;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="215" width="50" height="50" as="geometry" />
+          <mxGeometry x="200" y="175" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-11" value="医生APP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#0D47A1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="225" width="60" height="30" as="geometry" />
+          <mxGeometry x="240" y="185" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/mobile-and-internet-business/505/sms-128.png;fontSize=20;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="215" width="50" height="50" as="geometry" />
+          <mxGeometry x="320" y="175" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-13" value="经纪人APP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#0D47A1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="225" width="70" height="35" as="geometry" />
+          <mxGeometry x="360" y="185" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/socialcones/508/WeChat-128.png;fontSize=20;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="222.5" width="40" height="40" as="geometry" />
+          <mxGeometry x="460" y="182.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-15" value="患者&lt;br&gt;小程序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#0D47A1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="222.5" width="70" height="35" as="geometry" />
+          <mxGeometry x="510" y="182.5" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/colorstroked/FireFox.png;fontSize=20;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="217.5" width="50" height="50" as="geometry" />
+          <mxGeometry x="610" y="177.5" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-17" value="管理端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#0D47A1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="225" width="70" height="35" as="geometry" />
+          <mxGeometry x="660" y="185" width="70" height="35" as="geometry" />
         </mxCell>
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-19" value="业务&lt;br&gt;应用" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
           <mxGeometry x="90" y="280" width="70" height="230" as="geometry" />
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-45" value="监控&lt;br&gt;服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
           <mxGeometry x="580" y="600" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OpCwgLtP3gKo1lzQ5iub-46" value="SAAS 化演进" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="660" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
