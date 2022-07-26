@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T01:44:24.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="YfXbkqs1IOHbjVmz3MAq" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T01:49:19.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Po4WjIywIKkFcilnRlPy" version="20.1.3" type="github">
   <diagram id="KP49BWcJ2xEg14fMhSnt" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,8 +55,14 @@
         <mxCell id="OpCwgLtP3gKo1lzQ5iub-24" value="经纪人服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
           <mxGeometry x="490" y="280" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OpCwgLtP3gKo1lzQ5iub-25" value="医生维护&lt;br&gt;产品维护&lt;br&gt;数据分析&lt;br&gt;实时收益" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
+        <mxCell id="OpCwgLtP3gKo1lzQ5iub-25" value="医生维护&lt;br&gt;产品维护&lt;br&gt;数据可视&lt;br&gt;数据分析&lt;br&gt;智能提醒&lt;br&gt;实时收益&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
           <mxGeometry x="495" y="320" width="100" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="OpCwgLtP3gKo1lzQ5iub-26" value="管理端服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="280" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OpCwgLtP3gKo1lzQ5iub-27" value="经纪人管理&lt;br&gt;产品管理&lt;br&gt;货仓管理&lt;br&gt;门店管理&lt;br&gt;处方管理&lt;br&gt;订单管理&lt;br&gt;账务管理&lt;br&gt;..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#0D47A1;strokeColor=#0D47A1;" vertex="1" parent="1">
+          <mxGeometry x="615" y="320" width="110" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
