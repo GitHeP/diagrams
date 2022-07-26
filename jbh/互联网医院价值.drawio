@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-26T00:55:16.938Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7ZbcuVF-fTyDhqthK8qr" version="20.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-26T06:33:31.427Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fZ6fEa6mOrRRX7yA1e-3" version="20.1.3" type="github">
   <diagram id="897C7ZxnjxDklEcfM_nH" name="第 1 页">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,9 @@
         </mxCell>
         <mxCell id="AHRhEWRI0PKgLRRRAJqj-38" value="&lt;span style=&quot;font-size: 19px;&quot;&gt;监管机构&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="338" y="50" width="178" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AHRhEWRI0PKgLRRRAJqj-39" value="互联网医院主要参与方" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="80" y="50" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
