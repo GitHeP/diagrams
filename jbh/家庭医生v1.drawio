@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T06:54:24.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VAJJBrMgRk_vlEgAOrA9" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T09:55:53.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="CH6SKx7W85-G66knM9eE" version="20.4.0" type="github">
   <diagram id="eBfoPabh3ztfJm1XBm16" name="第 1 页">
-    <mxGraphModel dx="1835" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
+    <mxGraphModel dx="1993" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
         <mxCell id="DlZnM8HmDbADATsCwCUh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="DlZnM8HmDbADATsCwCUh-12" target="DlZnM8HmDbADATsCwCUh-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DlZnM8HmDbADATsCwCUh-12" value="绑卡，签约家庭医生" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="DlZnM8HmDbADATsCwCUh-12" value="绑卡" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry y="517.5" width="100" height="58" as="geometry" />
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-18" value="满足用户需求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="DlZnM8HmDbADATsCwCUh-13" target="DlZnM8HmDbADATsCwCUh-11">
