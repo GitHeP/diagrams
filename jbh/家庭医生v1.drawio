@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T06:52:45.175Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="0CvGuoVYSz2bV7QKoR0g" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T06:54:24.266Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="VAJJBrMgRk_vlEgAOrA9" version="20.4.0" type="github">
   <diagram id="eBfoPabh3ztfJm1XBm16" name="第 1 页">
     <mxGraphModel dx="1835" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
@@ -151,23 +151,26 @@
         <mxCell id="DlZnM8HmDbADATsCwCUh-68" value="B 端" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="220" y="1110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DlZnM8HmDbADATsCwCUh-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="DlZnM8HmDbADATsCwCUh-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=24;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="270" y="1220" width="210" height="490" as="geometry" />
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-58" value="消&lt;br&gt;息&lt;br&gt;发&lt;br&gt;送&lt;br&gt;服&lt;br&gt;务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1245" width="35" height="445" as="geometry" />
+          <mxGeometry x="330" y="1290" width="35" height="400" as="geometry" />
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-53" value="互&lt;br&gt;联&lt;br&gt;网&lt;br&gt;医&lt;br&gt;院&lt;br&gt;服&lt;br&gt;务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="285" y="1245" width="35" height="445" as="geometry" />
+          <mxGeometry x="280" y="1290" width="35" height="400" as="geometry" />
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-71" value="第&lt;br&gt;三&lt;br&gt;方支付&lt;br&gt;服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="378" y="1242.5" width="35" height="445" as="geometry" />
+          <mxGeometry x="378" y="1290" width="35" height="397.5" as="geometry" />
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-72" value="公共&lt;br&gt;中央&lt;br&gt;服务" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#fff2cc;gradientColor=#ffd966;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1245" width="35" height="445" as="geometry" />
+          <mxGeometry x="430" y="1290" width="35" height="400" as="geometry" />
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-75" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;技术架构&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="17.5" y="980" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZnM8HmDbADATsCwCUh-76" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;第三方服务依赖&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1240" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
