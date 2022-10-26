@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T03:21:49.129Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="6_R7jXjOvbH2c1feiKxo" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-26T03:22:25.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="5cXSJa_VvO7t7zmxefe2" version="20.4.0" type="github">
   <diagram id="eBfoPabh3ztfJm1XBm16" name="第 1 页">
     <mxGraphModel dx="1993" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="DlZnM8HmDbADATsCwCUh-46" value="账户模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-252" y="1631" width="486" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DlZnM8HmDbADATsCwCUh-47" value="家庭医生模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="DlZnM8HmDbADATsCwCUh-47" value="家庭医生模块（考虑放在互联网医院中）" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="-252" y="1430" width="486" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-48" value="订单模块" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
