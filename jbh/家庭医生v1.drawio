@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T05:28:02.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="aHJVdBtRC0IwnAfJvrJA" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T05:30:45.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="7WxZFDJrcbVaIgwwT2M3" version="20.4.0" type="github">
   <diagram id="eBfoPabh3ztfJm1XBm16" name="第 1 页">
     <mxGraphModel dx="2406" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
@@ -71,16 +71,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DlZnM8HmDbADATsCwCUh-20" value="满足用户需求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="DlZnM8HmDbADATsCwCUh-13" target="DlZnM8HmDbADATsCwCUh-19">
+        <mxCell id="DlZnM8HmDbADATsCwCUh-20" value="满足用户需求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="DlZnM8HmDbADATsCwCUh-13">
           <mxGeometry x="0.5455" y="10" relative="1" as="geometry">
+            <mxPoint x="230" y="770" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-13" value="智能导诊" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry y="630" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="DlZnM8HmDbADATsCwCUh-19" value="导流到互联网医院进行问诊流程" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="150" y="770" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-27" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;主体业务流程&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-140" y="145.5" width="160" height="30" as="geometry" />
@@ -175,8 +173,10 @@
         <mxCell id="DlZnM8HmDbADATsCwCUh-76" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;第三方服务依赖&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="265" y="1620" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DlZnM8HmDbADATsCwCUh-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fillColor=#594FE2;" edge="1" parent="1" source="DlZnM8HmDbADATsCwCUh-77" target="DlZnM8HmDbADATsCwCUh-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="DlZnM8HmDbADATsCwCUh-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;fillColor=#594FE2;" edge="1" parent="1" source="DlZnM8HmDbADATsCwCUh-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="805" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-79" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;用户问诊&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" vertex="1" connectable="0" parent="DlZnM8HmDbADATsCwCUh-78">
           <mxGeometry x="-0.1267" y="-4" relative="1" as="geometry">
@@ -204,6 +204,9 @@
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-82" value="用户主动&lt;br&gt;购卡入口" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZnM8HmDbADATsCwCUh-94" value="导流到互联网医院进行问诊流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="770" width="167.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
