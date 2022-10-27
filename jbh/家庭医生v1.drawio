@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T05:30:45.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="7WxZFDJrcbVaIgwwT2M3" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T05:35:55.139Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="GAwIfFCjoeRLevNWU7hB" version="20.4.0" type="github">
   <diagram id="eBfoPabh3ztfJm1XBm16" name="第 1 页">
     <mxGraphModel dx="2406" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
@@ -204,6 +204,14 @@
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-82" value="用户主动&lt;br&gt;购卡入口" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZnM8HmDbADATsCwCUh-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;fillColor=#594FE2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DlZnM8HmDbADATsCwCUh-94" target="DlZnM8HmDbADATsCwCUh-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="231" y="880" />
+              <mxPoint x="-319" y="880" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-94" value="导流到互联网医院进行问诊流程" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="147.5" y="770" width="167.5" height="70" as="geometry" />
