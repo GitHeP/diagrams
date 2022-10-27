@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-26T07:13:55.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="B1ZR9RPh5iLk1HzsejyG" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T05:21:22.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="mJTYEAFXayBA5Jx0H8zG" version="20.4.0" type="github">
   <diagram id="eBfoPabh3ztfJm1XBm16" name="第 1 页">
     <mxGraphModel dx="2406" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
@@ -46,11 +46,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-17" value="未购买" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DlZnM8HmDbADATsCwCUh-10" target="DlZnM8HmDbADATsCwCUh-11">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.2168" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-390" y="547" />
               <mxPoint x="-390" y="805" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-10" value="用户购卡" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
@@ -62,7 +63,7 @@
         <mxCell id="DlZnM8HmDbADATsCwCUh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="DlZnM8HmDbADATsCwCUh-12" target="DlZnM8HmDbADATsCwCUh-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DlZnM8HmDbADATsCwCUh-12" value="绑卡" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="DlZnM8HmDbADATsCwCUh-12" value="在线支付&lt;br&gt;绑卡" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry y="517.5" width="100" height="58" as="geometry" />
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-18" value="未满足用户需求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="DlZnM8HmDbADATsCwCUh-13" target="DlZnM8HmDbADATsCwCUh-77">
@@ -192,6 +193,31 @@
         </mxCell>
         <mxCell id="DlZnM8HmDbADATsCwCUh-77" value="人工分诊" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-150" y="755" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZnM8HmDbADATsCwCUh-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fillColor=#594FE2;" edge="1" parent="1" source="DlZnM8HmDbADATsCwCUh-82" target="DlZnM8HmDbADATsCwCUh-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZnM8HmDbADATsCwCUh-82" value="用户主动&lt;br&gt;购卡入口" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZnM8HmDbADATsCwCUh-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;fillColor=#594FE2;" edge="1" parent="1" source="DlZnM8HmDbADATsCwCUh-83" target="DlZnM8HmDbADATsCwCUh-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-389" y="390" />
+              <mxPoint x="-389" y="805" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlZnM8HmDbADATsCwCUh-91" value="未购买" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="DlZnM8HmDbADATsCwCUh-88">
+          <mxGeometry x="-0.7616" y="1" relative="1" as="geometry">
+            <mxPoint x="28" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DlZnM8HmDbADATsCwCUh-90" value="购买" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fillColor=#594FE2;" edge="1" parent="1" source="DlZnM8HmDbADATsCwCUh-83" target="DlZnM8HmDbADATsCwCUh-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DlZnM8HmDbADATsCwCUh-83" value="用户购卡" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry y="337" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
