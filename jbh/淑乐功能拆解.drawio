@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T01:37:00.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="vxFzXgatF5zVhJv6Pa3x" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T01:39:01.295Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="Crm0GnK7516YMIkb_WiC" type="github">
   <diagram id="eNkfV0XAbYjv7dDU_iYc" name="第 1 页">
     <mxGraphModel dx="1835" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
@@ -87,6 +87,30 @@
         </mxCell>
         <mxCell id="SsoEdK-T8yu-xdgHH_tw-42" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;用户增加积分&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="98" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsoEdK-T8yu-xdgHH_tw-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="890" width="620" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="SsoEdK-T8yu-xdgHH_tw-44" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;管理生命&lt;br&gt;周期控制&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-52" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsoEdK-T8yu-xdgHH_tw-45" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;订单模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-52" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SsoEdK-T8yu-xdgHH_tw-46" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;后台管理&lt;br&gt;订单查询&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="84.5" y="1070" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsoEdK-T8yu-xdgHH_tw-47" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;订单商品&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="84.5" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsoEdK-T8yu-xdgHH_tw-48" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;订单支付&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="230" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsoEdK-T8yu-xdgHH_tw-49" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;订单取消&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="380" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsoEdK-T8yu-xdgHH_tw-50" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;订单关闭&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-54" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
