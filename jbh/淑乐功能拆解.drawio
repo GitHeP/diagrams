@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T01:33:26.454Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="t-LT3o7k8Kw925Fx2v6G" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T01:34:20.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="eIvePiVIhojVQyStz-sV" type="github">
   <diagram id="eNkfV0XAbYjv7dDU_iYc" name="第 1 页">
     <mxGraphModel dx="1835" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="413" pageHeight="291" math="0" shadow="0">
       <root>
@@ -72,6 +72,9 @@
         </mxCell>
         <mxCell id="SsoEdK-T8yu-xdgHH_tw-31" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;卡券利润分配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="228" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SsoEdK-T8yu-xdgHH_tw-32" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;终端用户绑卡&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="368" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
