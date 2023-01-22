@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T13:56:09.949Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="nX7Uju0o1jf018XlxVzN" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-22T14:02:07.495Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="OFXDomMsaTqry-6gRn2T" version="18.2.1" type="github">
   <diagram id="bgEvh49RD3aRkd1yty4T" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,6 +32,9 @@
         <mxCell id="mGQnytZAbDY96qmfgmJe-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="mGQnytZAbDY96qmfgmJe-6" target="mGQnytZAbDY96qmfgmJe-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mGQnytZAbDY96qmfgmJe-67" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;strokeColor=#2D7600;fillColor=#60a917;dashed=1;curved=1;" edge="1" parent="1" source="mGQnytZAbDY96qmfgmJe-6" target="mGQnytZAbDY96qmfgmJe-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mGQnytZAbDY96qmfgmJe-6" value="obtainFromSupplier" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-205" y="445" width="180" height="45" as="geometry" />
         </mxCell>
@@ -61,6 +64,14 @@
             <Array as="points">
               <mxPoint x="125" y="600" />
               <mxPoint x="-115" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mGQnytZAbDY96qmfgmJe-69" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;curved=1;fillColor=#60a917;strokeColor=#2D7600;dashed=1;" edge="1" parent="1" source="mGQnytZAbDY96qmfgmJe-12" target="mGQnytZAbDY96qmfgmJe-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-30" y="470" />
+              <mxPoint x="-30" y="604" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -172,6 +183,12 @@
         </mxCell>
         <mxCell id="mGQnytZAbDY96qmfgmJe-65" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;createBeanInstance&lt;br&gt;执行过程&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-20" y="110" width="204.57" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mGQnytZAbDY96qmfgmJe-66" value="从 Supplier 中获取 bean 实例对象" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="400" width="120" height="107.5" as="geometry" />
+        </mxCell>
+        <mxCell id="mGQnytZAbDY96qmfgmJe-68" value="通过工厂方法获取 bean 实例对象" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="550" width="120" height="107.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
