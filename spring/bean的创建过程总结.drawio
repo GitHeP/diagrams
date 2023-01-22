@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T16:24:39.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="jEQzNU2RLsXXu74nl_ip" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-22T16:25:17.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="dem9Dm2ns9jfqdoPnNpV" version="18.2.1" type="github">
   <diagram id="IWvYk044tRtQExC97nHr" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
           <mxGeometry x="122" y="630" width="590" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UeNIf6_Ejzf1aBIBiI3F-24" value="&lt;div&gt;获取对指定bean的早期访问的引用，通常用于解析循环引用。这一步可以改写 bean。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;rounded=1;arcSize=14;strokeWidth=2;size=0.17647058823529413;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="610" width="190" height="130" as="geometry" />
+          <mxGeometry x="-520" y="600" width="190" height="130" as="geometry" />
         </mxCell>
         <mxCell id="UeNIf6_Ejzf1aBIBiI3F-29" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;fillColor=#e51400;strokeColor=#B20000;dashed=1;" edge="1" parent="1" source="UeNIf6_Ejzf1aBIBiI3F-27" target="UeNIf6_Ejzf1aBIBiI3F-28">
           <mxGeometry relative="1" as="geometry" />
