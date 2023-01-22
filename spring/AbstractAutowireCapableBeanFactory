@@ -1,1 +1,124 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T14:32:47.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="18.2.1" etag="PmIKox0fm4lCsb7gMs5P" type="github"><diagram id="NydGCLHGkSKutiKmEbNx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-22T14:57:09.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="G9mnaZkq8XdRAR2VbodN" version="18.2.1" type="github">
+  <diagram id="NydGCLHGkSKutiKmEbNx" name="Page-1">
+    <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-1" target="AnG1YGQ6yUqqYZECHrlV-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;populateBean&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="349" y="110" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-2" target="AnG1YGQ6yUqqYZECHrlV-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-2" target="AnG1YGQ6yUqqYZECHrlV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-2" value="BeanWrapper == null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="301" y="220" width="226" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-4" value="return" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-780" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-7" target="AnG1YGQ6yUqqYZECHrlV-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-7" value="InstantiationAwareBeanPostProcessor&lt;br&gt;#postProcessAfterInstantiation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="239" y="360" width="350" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-10" target="AnG1YGQ6yUqqYZECHrlV-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-16" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-10" target="AnG1YGQ6yUqqYZECHrlV-12">
+          <mxGeometry x="-0.1621" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-10" value="resolvedAutowireMode == AUTOWIRE_BY_NAME" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="222.75" y="450" width="382.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-12" value="autowireByName" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="472.5" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-18" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-14" target="AnG1YGQ6yUqqYZECHrlV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-14" target="AnG1YGQ6yUqqYZECHrlV-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-14" value="resolvedAutowireMode == AUTOWIRE_BY_NAME" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="222" y="570" width="382.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-17" value="autowireByType" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="592.5" width="200" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-24" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-20" target="AnG1YGQ6yUqqYZECHrlV-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-20" target="AnG1YGQ6yUqqYZECHrlV-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-20" value="hasInstantiationAwareBeanPostProcessors" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="222" y="700" width="382.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-23" target="AnG1YGQ6yUqqYZECHrlV-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-23" value="InstantiationAwareBeanPostProcessor&lt;br&gt;#postProcessProperties" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=36;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="715" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-43" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-25" target="AnG1YGQ6yUqqYZECHrlV-41">
+          <mxGeometry x="-0.1497" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-25" value="needsDepCheck&lt;br&gt;是否需要依赖检查" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="316" y="840" width="196" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-27" target="AnG1YGQ6yUqqYZECHrlV-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-27" value="PropertyValues&amp;nbsp;pvsToUse == null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="820" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-33" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-29" target="AnG1YGQ6yUqqYZECHrlV-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-29" target="AnG1YGQ6yUqqYZECHrlV-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-29" value="PropertyDescriptor[] filteredPds &lt;br&gt;== null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-177.5" y="940" width="315" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-32" value="filterPropertyDescriptorsForDependencyCheck" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-637.5" y="945" width="387.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-34" target="AnG1YGQ6yUqqYZECHrlV-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-34" value="postProcessPropertyValues" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-155" y="1050" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-38" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-36" target="AnG1YGQ6yUqqYZECHrlV-4">
+          <mxGeometry x="-0.4706" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-36" value="PropertyValues&amp;nbsp;pvsToUse == null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-135" y="1120" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-44" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-41" target="AnG1YGQ6yUqqYZECHrlV-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-41" value="PropertyDescriptor[] filteredPds &lt;br&gt;== null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="530" y="940" width="315" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-42" value="filterPropertyDescriptorsForDependencyCheck" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="930" y="945" width="387.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
