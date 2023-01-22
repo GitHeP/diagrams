@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T16:26:37.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="QE8d3cV1tUycIcjw_leX" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-22T16:32:59.091Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="U40PbnqSXMCU_IL7mZc4" version="18.2.1" type="github">
   <diagram id="IWvYk044tRtQExC97nHr" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,13 +40,18 @@
           <mxGeometry x="354" y="370" width="126" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UeNIf6_Ejzf1aBIBiI3F-14" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;curved=1;fillColor=#e51400;strokeColor=#B20000;dashed=1;" edge="1" parent="1" source="UeNIf6_Ejzf1aBIBiI3F-11" target="UeNIf6_Ejzf1aBIBiI3F-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-210" y="410" />
+              <mxPoint x="-210" y="330" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="UeNIf6_Ejzf1aBIBiI3F-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;exitX=0.474;exitY=1.017;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="UeNIf6_Ejzf1aBIBiI3F-11" target="UeNIf6_Ejzf1aBIBiI3F-4">
+        <mxCell id="UeNIf6_Ejzf1aBIBiI3F-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="UeNIf6_Ejzf1aBIBiI3F-11" target="UeNIf6_Ejzf1aBIBiI3F-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UeNIf6_Ejzf1aBIBiI3F-11" value="BeanPostProcessor#postProcessAfterInitialization" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="380" width="407" height="60" as="geometry" />
+          <mxGeometry x="-140" y="380" width="407" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UeNIf6_Ejzf1aBIBiI3F-13" value="执行 bean 实例化后置处理器，这里可以改写 bean 的实例。" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;rounded=1;strokeWidth=2;size=0.16666666666666666;" vertex="1" parent="1">
           <mxGeometry x="-478" y="270" width="130" height="120" as="geometry" />
