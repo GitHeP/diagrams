@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T14:57:09.434Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="G9mnaZkq8XdRAR2VbodN" version="18.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-22T15:00:14.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="pJC5QyUU-bf87V9UEDQ_" version="18.2.1" type="github">
   <diagram id="NydGCLHGkSKutiKmEbNx" name="Page-1">
     <mxGraphModel dx="2249" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,6 +74,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-25" target="AnG1YGQ6yUqqYZECHrlV-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AnG1YGQ6yUqqYZECHrlV-25" value="needsDepCheck&lt;br&gt;是否需要依赖检查" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="316" y="840" width="196" height="90" as="geometry" />
         </mxCell>
@@ -117,6 +120,23 @@
         </mxCell>
         <mxCell id="AnG1YGQ6yUqqYZECHrlV-42" value="filterPropertyDescriptorsForDependencyCheck" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="930" y="945" width="387.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-48" value="true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-45" target="AnG1YGQ6yUqqYZECHrlV-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="AnG1YGQ6yUqqYZECHrlV-45" target="AnG1YGQ6yUqqYZECHrlV-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="1240" />
+              <mxPoint x="-730" y="1240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-45" value="PropertyValues&amp;nbsp;pvsToUse == null" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="299" y="1025" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="AnG1YGQ6yUqqYZECHrlV-47" value="applyPropertyValues" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1040" width="190" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
