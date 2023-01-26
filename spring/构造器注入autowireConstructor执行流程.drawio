@@ -1,1 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T13:20:19.888Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="20.8.10" etag="a5YgE-MjtaN47iu6AAmu" type="github"><diagram name="第 1 页" id="OaGnfDk5EdA8OH1uygie">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-26T13:43:49.676Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="YlagWSfe4okbKjqKYK7Q" version="20.8.10" type="github">
+  <diagram name="第 1 页" id="OaGnfDk5EdA8OH1uygie">
+    <mxGraphModel dx="2261" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-17" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;rounded=0;" edge="1" parent="1" source="i0wR6J2IRW5RHCVqw8sQ-1" target="i0wR6J2IRW5RHCVqw8sQ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ConstructorResolver#autowireConstructor&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="275" y="165" width="360" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-3" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="390" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;curved=1;dashed=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="i0wR6J2IRW5RHCVqw8sQ-4" target="i0wR6J2IRW5RHCVqw8sQ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-4" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="310" y="330" width="320" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-5" value="遍历多个构造器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-6" value="创建构造器需要的参数数组" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;curved=1;dashed=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="i0wR6J2IRW5RHCVqw8sQ-7" target="i0wR6J2IRW5RHCVqw8sQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-7" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="270" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-8" value="完成该功能对应的方法：&lt;br&gt;ConstructorResolver#createArgumentArray" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;rounded=1;arcSize=14;strokeWidth=2;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="170" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-10" value="完成该功能对应的方法：&lt;br&gt;ConstructorResolver#resolveAutowiredArgument" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="542" width="420" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-13" value="解析需要自动注入的参数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;curved=1;dashed=1;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="i0wR6J2IRW5RHCVqw8sQ-14" target="i0wR6J2IRW5RHCVqw8sQ-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-14" value="AutowireCapableBeanFactory&lt;br&gt;#resolveDependency" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="350" y="440" width="250" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-15" value="需要注入的 bean 参数又会进行一遍 createBean 的过程" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;rounded=1;arcSize=14;strokeWidth=2;size=0.125;" vertex="1" parent="1">
+          <mxGeometry x="730" y="520" width="210" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
