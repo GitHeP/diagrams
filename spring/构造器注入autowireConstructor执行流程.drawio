@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T13:51:58.631Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Nyl-qWdPBtOB0U_fULZm" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-26T13:53:55.056Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="nCsdNdvaXjsZejeu5xi9" version="20.8.10" type="github">
   <diagram name="第 1 页" id="OaGnfDk5EdA8OH1uygie">
     <mxGraphModel dx="2261" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,9 @@
         <mxCell id="i0wR6J2IRW5RHCVqw8sQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="i0wR6J2IRW5RHCVqw8sQ-26" target="i0wR6J2IRW5RHCVqw8sQ-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-34" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;curved=1;fillColor=#e51400;strokeColor=#B20000;dashed=1;" edge="1" parent="1" source="i0wR6J2IRW5RHCVqw8sQ-26" target="i0wR6J2IRW5RHCVqw8sQ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i0wR6J2IRW5RHCVqw8sQ-26" value="使用构造器进行 bean 的实例化" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="90" y="780" width="260" height="50" as="geometry" />
         </mxCell>
@@ -83,6 +86,9 @@
         </mxCell>
         <mxCell id="i0wR6J2IRW5RHCVqw8sQ-30" value="return&amp;nbsp;BeanWrapper" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="135" y="870" width="170" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="i0wR6J2IRW5RHCVqw8sQ-33" value="SimpleInstantiationStrategy#instantiate" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;rounded=1;arcSize=14;strokeWidth=2;size=0.2619047619047619;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="720" width="340" height="67.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
