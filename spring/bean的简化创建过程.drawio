@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T11:29:17.296Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="u7AAKIlYh7SQb3ztIMxL" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-26T11:34:18.371Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="kvqThKkk3lZSdBPhpBLj" version="20.8.10" type="github">
   <diagram name="第 1 页" id="Nxgzc3p3YOLyP9FR1XZx">
-    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aJl2VTmac9srV1adn-Y9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="aJl2VTmac9srV1adn-Y9-2" target="aJl2VTmac9srV1adn-Y9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJl2VTmac9srV1adn-Y9-12" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;curved=1;fillColor=#e51400;strokeColor=#B20000;dashed=1;" edge="1" parent="1" source="aJl2VTmac9srV1adn-Y9-2" target="aJl2VTmac9srV1adn-Y9-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aJl2VTmac9srV1adn-Y9-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AbstractAutowireCapableBeanFactory#createBeanInstance&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -13,10 +16,16 @@
         <mxCell id="aJl2VTmac9srV1adn-Y9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="aJl2VTmac9srV1adn-Y9-3" target="aJl2VTmac9srV1adn-Y9-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="aJl2VTmac9srV1adn-Y9-14" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;curved=1;fillColor=#e51400;strokeColor=#B20000;dashed=1;" edge="1" parent="1" source="aJl2VTmac9srV1adn-Y9-3" target="aJl2VTmac9srV1adn-Y9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aJl2VTmac9srV1adn-Y9-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AbstractAutowireCapableBeanFactory#populateBean&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="370" width="500" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aJl2VTmac9srV1adn-Y9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="aJl2VTmac9srV1adn-Y9-4" target="aJl2VTmac9srV1adn-Y9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aJl2VTmac9srV1adn-Y9-16" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;curved=1;fillColor=#e51400;strokeColor=#B20000;dashed=1;" edge="1" parent="1" source="aJl2VTmac9srV1adn-Y9-4" target="aJl2VTmac9srV1adn-Y9-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aJl2VTmac9srV1adn-Y9-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AbstractAutowireCapableBeanFactory#initializeBean&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
@@ -30,6 +39,15 @@
         </mxCell>
         <mxCell id="aJl2VTmac9srV1adn-Y9-9" value="createBean" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="380" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aJl2VTmac9srV1adn-Y9-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;创建bean的实例对象&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aJl2VTmac9srV1adn-Y9-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;填充 bean 的依赖，检查 bean 中是否有需要注入的依赖项，在 BeanFactory 中寻找或创建依赖项&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="370" width="220" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="aJl2VTmac9srV1adn-Y9-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;进行 bean 的一些其他初始化操作&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="550" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
