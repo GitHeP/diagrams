@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T13:10:32.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="uCD4IYTU1GzNZkEXz7LY" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-12T13:39:22.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="7clIoGDj7agWHQaAGE3A" version="20.8.16" type="github">
   <diagram name="第 1 页" id="7Lkr_Ow56bsafLcugQKO">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,6 +78,36 @@
         </mxCell>
         <mxCell id="Xo9_a6VRl7HIQzImsxzE-22" value="Bean 的初始化完成顺序" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="283.5" y="690" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Xo9_a6VRl7HIQzImsxzE-27" target="Xo9_a6VRl7HIQzImsxzE-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-27" value="通过无参构造器实例化 Bean&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="120" y="985" width="206.88" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-28" value="在 BeanFactory 中寻找或创建依赖实例" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="108.44" y="1089" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="Xo9_a6VRl7HIQzImsxzE-30" target="Xo9_a6VRl7HIQzImsxzE-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-30" value="属性，方法依赖注入" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="147.69" y="860" width="151.5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Xo9_a6VRl7HIQzImsxzE-33" target="Xo9_a6VRl7HIQzImsxzE-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-33" value="在 BeanFactory 中寻找或创建依赖实例" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="426.13" y="980" width="279.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-34" value="通过有参构造器实例化 Bean" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="450.75" y="1093.5" width="230" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="Xo9_a6VRl7HIQzImsxzE-36" target="Xo9_a6VRl7HIQzImsxzE-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-36" value="构造器&lt;br&gt;依赖注入" style="ellipse;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="490" y="860" width="151.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
