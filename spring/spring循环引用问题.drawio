@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-12T13:40:01.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="kimmYZpyxym7newHPHEg" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-12T14:08:07.487Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="CfKvgMXcUNTQzNqVhcm5" version="20.8.16" type="github">
   <diagram name="第 1 页" id="7Lkr_Ow56bsafLcugQKO">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,48 @@
         </mxCell>
         <mxCell id="Xo9_a6VRl7HIQzImsxzE-37" value="构造器注入与属性、方法依赖注入的区别" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="178.5" y="900" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="Xo9_a6VRl7HIQzImsxzE-38" target="Xo9_a6VRl7HIQzImsxzE-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-38" value="开始创建 Bean1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="370.01" y="1510" width="111.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Xo9_a6VRl7HIQzImsxzE-39" target="Xo9_a6VRl7HIQzImsxzE-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-39" value="寻找Bean1合适的构造器" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="317.57" y="1610" width="216.37" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Xo9_a6VRl7HIQzImsxzE-41" target="Xo9_a6VRl7HIQzImsxzE-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-41" value="Bean1构造器需要提供 Bean2 实例作为参数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="304.55" y="1710" width="242.43" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Xo9_a6VRl7HIQzImsxzE-45" target="Xo9_a6VRl7HIQzImsxzE-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-45" value="寻找Bean2合适的构造器" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="317.57" y="1910" width="216.37" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=24;exitX=0.476;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Xo9_a6VRl7HIQzImsxzE-47" target="Xo9_a6VRl7HIQzImsxzE-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="2120" />
+              <mxPoint x="190" y="2120" />
+              <mxPoint x="190" y="1545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-47" value="Bean2构造器需要提供 Bean1 实例作为参数" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="304.54" y="2000" width="242.43" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="Xo9_a6VRl7HIQzImsxzE-50" target="Xo9_a6VRl7HIQzImsxzE-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xo9_a6VRl7HIQzImsxzE-50" value="开始创建 Bean2" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="370" y="1810" width="111.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
