@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T12:35:10.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="xD0vPzkU6E_lC8SQ3g77" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T12:36:31.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="sKK7bo8YejJqs8wTuA0o" version="20.8.20" type="github">
   <diagram name="第 1 页" id="XvNV9zE-3UiDrreIDt3a">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -168,8 +168,8 @@
         <mxCell id="YI6U0gxPhSx2EsZZrnos-56" value="getObject" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;shadow=1;glass=0;sketch=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="210" y="910" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YI6U0gxPhSx2EsZZrnos-58" value="在解析依赖项时返回一个代理对象，该代理对象在使用时再去 BeanFactory 中寻找真正的实例，解决的思路就是延迟加载思想" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;rounded=1;shadow=1;glass=0;sketch=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1150" width="280" height="140" as="geometry" />
+        <mxCell id="YI6U0gxPhSx2EsZZrnos-58" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;在解析依赖项时返回一个代理对象，该代理对象在使用时再去 BeanFactory 中寻找真正的实例，解决的思路就是延迟加载思想&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.09523809523809523;rounded=1;shadow=1;glass=0;sketch=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="1110" width="360" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
