@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T12:33:45.784Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="htFZCUx-Ku0kBshJXb6_" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-13T12:35:10.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="xD0vPzkU6E_lC8SQ3g77" version="20.8.20" type="github">
   <diagram name="第 1 页" id="XvNV9zE-3UiDrreIDt3a">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,8 +82,22 @@
         <mxCell id="YI6U0gxPhSx2EsZZrnos-21" value="populateBean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="495" y="860" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YI6U0gxPhSx2EsZZrnos-53" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.991;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="YI6U0gxPhSx2EsZZrnos-22" target="YI6U0gxPhSx2EsZZrnos-52">
+        <mxCell id="YI6U0gxPhSx2EsZZrnos-53" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;懒加载&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.991;entryY=0.579;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;" edge="1" parent="1" source="YI6U0gxPhSx2EsZZrnos-22" target="YI6U0gxPhSx2EsZZrnos-52">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YI6U0gxPhSx2EsZZrnos-60" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;fontSize=18;rounded=0;" edge="1" parent="1" source="YI6U0gxPhSx2EsZZrnos-22" target="YI6U0gxPhSx2EsZZrnos-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="990" y="915" />
+              <mxPoint x="990" y="120" />
+              <mxPoint x="414" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YI6U0gxPhSx2EsZZrnos-61" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;积极加载&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="YI6U0gxPhSx2EsZZrnos-60">
+          <mxGeometry x="-0.8663" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="YI6U0gxPhSx2EsZZrnos-22" value="resolveDependency 解析依赖项" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="900" width="270" height="30" as="geometry" />
