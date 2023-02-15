@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T12:39:59.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="60mBCudYDITN-cqzIqXH" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-15T14:03:04.161Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="rt3_O84keA4hjpshCrZB" version="20.8.20" type="github">
   <diagram name="第 1 页" id="ARzHX-9ly3W4_VBs6L68">
-    <mxGraphModel dx="1418" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1416" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,6 +84,51 @@
         </mxCell>
         <mxCell id="3sBMbdfUlUZQCqw2dq3I-39" value="Advice 3" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="840" y="360" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="3sBMbdfUlUZQCqw2dq3I-41" target="3sBMbdfUlUZQCqw2dq3I-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-41" value="创建 Bean" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="500" y="670" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="3sBMbdfUlUZQCqw2dq3I-42" target="3sBMbdfUlUZQCqw2dq3I-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-54" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;curved=1;" edge="1" parent="1" source="3sBMbdfUlUZQCqw2dq3I-42" target="3sBMbdfUlUZQCqw2dq3I-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-42" value="AbstractAutoProxyCreator#postProcessBeforeInstantiation" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="240" y="770" width="660" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="3sBMbdfUlUZQCqw2dq3I-44" target="3sBMbdfUlUZQCqw2dq3I-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-44" value="构造器实例化 Bean" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="440" y="860" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="3sBMbdfUlUZQCqw2dq3I-46" target="3sBMbdfUlUZQCqw2dq3I-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-46" value="populateBean" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="440" y="940" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-47" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1030" width="680" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-48" value="initializeBean" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1040" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-56" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="3sBMbdfUlUZQCqw2dq3I-50" target="3sBMbdfUlUZQCqw2dq3I-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-50" value="AbstractAutoProxyCreator#postProcessAfterInitialization" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1080" width="660" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-53" value="探测 AspectJ 切面和存在的&amp;nbsp;Advisor" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=24;rounded=1;arcSize=14;strokeWidth=2;size=0.2;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="820" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="3sBMbdfUlUZQCqw2dq3I-55" value="创建代理对象" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=24;fillColor=#cdeb8b;strokeColor=#36393d;rounded=1;arcSize=14;strokeWidth=2;size=0.125;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1020" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
