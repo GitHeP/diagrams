@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T12:56:37.253Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="pu_06TcIr-o48Ex5QAvo" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T13:00:04.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="MBF86_6K7dkC0zw6LtBo" version="20.8.20" type="github">
   <diagram name="第 1 页" id="2eby7_EUMZsgkIJewPi7">
     <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,14 +64,20 @@
         <mxCell id="wgSQVZFUaa1Q4gMYhKkH-23" value="在 BeanFactory 中寻找 AspectJ 切面类" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="840" width="245" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="wgSQVZFUaa1Q4gMYhKkH-26" target="wgSQVZFUaa1Q4gMYhKkH-28">
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="wgSQVZFUaa1Q4gMYhKkH-26" target="wgSQVZFUaa1Q4gMYhKkH-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wgSQVZFUaa1Q4gMYhKkH-26" value="将 AspectJ 切面类中的切面方法封装为 Advisor" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="301.25" y="940" width="287.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-28" value="return Advisor 列表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="327.5" y="1050" width="235" height="60" as="geometry" />
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="wgSQVZFUaa1Q4gMYhKkH-30" target="wgSQVZFUaa1Q4gMYhKkH-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-30" value="缓存这些 Advisor" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="1050" width="235" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-32" value="return Advisor 列表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="1130" width="235" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
