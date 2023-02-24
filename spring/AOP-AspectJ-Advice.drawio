@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-24T13:00:04.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="MBF86_6K7dkC0zw6LtBo" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-24T13:59:46.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Sjq61Rxp9MA-tXo6WI2f" version="20.8.20" type="github">
   <diagram name="第 1 页" id="2eby7_EUMZsgkIJewPi7">
     <mxGraphModel dx="2261" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -78,6 +78,42 @@
         </mxCell>
         <mxCell id="wgSQVZFUaa1Q4gMYhKkH-32" value="return Advisor 列表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="327.5" y="1130" width="235" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="wgSQVZFUaa1Q4gMYhKkH-34" target="wgSQVZFUaa1Q4gMYhKkH-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-34" value="创建代理对象" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1450" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="wgSQVZFUaa1Q4gMYhKkH-35" target="wgSQVZFUaa1Q4gMYhKkH-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="wgSQVZFUaa1Q4gMYhKkH-35" target="wgSQVZFUaa1Q4gMYhKkH-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-35" value="寻找适用于目标对象的 Advisor" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="306.25" y="1550" width="342.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="wgSQVZFUaa1Q4gMYhKkH-37" target="wgSQVZFUaa1Q4gMYhKkH-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-37" value="JdkDynamicAopProxy" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1720" width="242.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="wgSQVZFUaa1Q4gMYhKkH-38" target="wgSQVZFUaa1Q4gMYhKkH-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-38" value="ObjenesisCglibAopProxy" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1720" width="277.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="1" source="wgSQVZFUaa1Q4gMYhKkH-46" target="wgSQVZFUaa1Q4gMYhKkH-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-46" value="getProxy" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="418.75" y="1830" width="117.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wgSQVZFUaa1Q4gMYhKkH-50" value="返回代理对象" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="401.25" y="1920" width="152.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
