@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T08:54:34.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="pF__f8-ydiQ6nfH3ePy-" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T08:58:41.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="KTnP93Hm2vaO47hIuUaY" version="20.8.23" type="github">
   <diagram name="第 1 页" id="WMbE2pWvK8cWfMMglYSd">
     <mxGraphModel dx="1416" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,8 +59,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-23" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;curved=1;" edge="1" parent="1" source="sS-b0C_5kmEtddLcen15-18" target="sS-b0C_5kmEtddLcen15-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sS-b0C_5kmEtddLcen15-18" value="调用拦截器方法" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="727" y="750" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-22" value="再调用&amp;nbsp;ReflectiveMethodInvocation#proceed&lt;br&gt;目的是再去调用下一个拦截器或者是调用目标方法" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="870" width="418.5" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
