@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T08:58:50.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="XgiE_41V3BeQjyzehP5l" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T11:00:30.737Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="7BpV53GdMhmUgwkFF2f5" version="20.8.23" type="github">
   <diagram name="第 1 页" id="WMbE2pWvK8cWfMMglYSd">
     <mxGraphModel dx="1416" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,6 +67,114 @@
         </mxCell>
         <mxCell id="sS-b0C_5kmEtddLcen15-22" value="再调用&amp;nbsp;ReflectiveMethodInvocation#proceed&lt;br&gt;目的是再去调用下一个拦截器或者是调用目标方法" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=18;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="780" width="418.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-49" value="" style="edgeStyle=elbowEdgeStyle;curved=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;rounded=0;fontSize=18;" edge="1" parent="1" source="sS-b0C_5kmEtddLcen15-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="224.25" y="1280" as="sourcePoint" />
+            <mxPoint x="548.75" y="1280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="499.75" y="1280" />
+              <mxPoint x="249.75" y="1290" />
+              <mxPoint x="519.75" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-50" value="拦截器链为空或全部执行过" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="sS-b0C_5kmEtddLcen15-49">
+          <mxGeometry x="-0.1129" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-59" value="invoke(ReflectiveMethodInvocation mi)" style="edgeStyle=elbowEdgeStyle;curved=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;rounded=0;fontSize=18;" edge="1" parent="1" source="sS-b0C_5kmEtddLcen15-37" target="sS-b0C_5kmEtddLcen15-63">
+          <mxGeometry x="-0.4418" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="700" y="1390" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-37" value="ReflectiveMethodInvocation" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1130" width="230" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-42" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="sS-b0C_5kmEtddLcen15-37">
+          <mxGeometry x="110" y="100" width="10" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-43" value="proceed" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=18;" edge="1" target="sS-b0C_5kmEtddLcen15-42" parent="sS-b0C_5kmEtddLcen15-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="80" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="145" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-46" value="ReflectiveMethodInvocation" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1130" width="230" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-47" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="sS-b0C_5kmEtddLcen15-46">
+          <mxGeometry x="110" y="169" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-48" value="invokeJoinpoint" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;fontSize=18;" edge="1" parent="sS-b0C_5kmEtddLcen15-46" target="sS-b0C_5kmEtddLcen15-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="149" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="145" y="179" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-51" value="调用目标对象的方法" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="548.75" y="1240" width="181.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-52" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="sS-b0C_5kmEtddLcen15-51" target="sS-b0C_5kmEtddLcen15-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-56" value="MethodInterceptor 1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1130" width="180" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-63" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="sS-b0C_5kmEtddLcen15-56">
+          <mxGeometry x="85" y="230" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-64" style="edgeStyle=elbowEdgeStyle;curved=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;rounded=0;fontSize=18;" edge="1" parent="1" source="sS-b0C_5kmEtddLcen15-63" target="sS-b0C_5kmEtddLcen15-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="720" y="1460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-66" value="mi.proceed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="sS-b0C_5kmEtddLcen15-64">
+          <mxGeometry x="-0.1548" y="1" relative="1" as="geometry">
+            <mxPoint x="144" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-70" style="edgeStyle=elbowEdgeStyle;curved=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;rounded=0;fontSize=18;" edge="1" parent="1" source="sS-b0C_5kmEtddLcen15-42" target="sS-b0C_5kmEtddLcen15-72">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="1570" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="760" y="1570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-75" value="invoke(ReflectiveMethodInvocation mi)" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="sS-b0C_5kmEtddLcen15-70">
+          <mxGeometry x="-0.0959" relative="1" as="geometry">
+            <mxPoint x="-213" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-68" value="MethodInterceptor 2" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="1130" width="180" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-72" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fontSize=18;" vertex="1" parent="sS-b0C_5kmEtddLcen15-68">
+          <mxGeometry x="85" y="390" width="10" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-73" style="edgeStyle=elbowEdgeStyle;curved=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;rounded=0;fontSize=18;" edge="1" parent="1" source="sS-b0C_5kmEtddLcen15-72" target="sS-b0C_5kmEtddLcen15-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sS-b0C_5kmEtddLcen15-74" value="mi.proceed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="sS-b0C_5kmEtddLcen15-73">
+          <mxGeometry x="0.0676" y="3" relative="1" as="geometry">
+            <mxPoint x="329" y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
