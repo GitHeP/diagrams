@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-13T03:43:31.560Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="MKL2EFI08dOIdW79td6x" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-13T03:47:28.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Wd37b2MN691gWJg-RhAx" version="21.0.6" type="github">
   <diagram name="第 1 页" id="JRt5Sor9CVDq6ppiH0SU">
     <mxGraphModel dx="2261" dy="-405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -213,6 +213,9 @@
         </mxCell>
         <mxCell id="KDGDrF34WBt05ubvqvvm-107" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="90" y="3015" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KDGDrF34WBt05ubvqvvm-139" value="&lt;div&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: medium; background-color: initial;&quot;&gt;需求类型&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;紧急程度&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;功能模块&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=17;" vertex="1" parent="1">
+          <mxGeometry x="119" y="2980" width="131" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
