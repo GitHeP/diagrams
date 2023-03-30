@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-29T11:52:06.895Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="mTKuU25s5aqgZrgyCyrh" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T01:18:52.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QySIgNAjsZwNp73wyqeR" version="21.1.1" type="github">
   <diagram name="第 1 页" id="KuIml-AkiOZRVEyt4xdX">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -122,6 +122,9 @@
         <mxCell id="3qagU8p-PGzFSOpaCyJv-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3qagU8p-PGzFSOpaCyJv-41" target="3qagU8p-PGzFSOpaCyJv-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3qagU8p-PGzFSOpaCyJv-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3qagU8p-PGzFSOpaCyJv-41" target="3qagU8p-PGzFSOpaCyJv-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3qagU8p-PGzFSOpaCyJv-41" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;定制化处理面单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="562" width="140" height="45" as="geometry" />
         </mxCell>
@@ -154,6 +157,9 @@
         </mxCell>
         <mxCell id="3qagU8p-PGzFSOpaCyJv-59" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;打印交接单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="980" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3qagU8p-PGzFSOpaCyJv-63" value="自定义坐标位置写入自定义信息，自定义字体大小，粗细" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="590" y="544.5" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
