@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T09:15:43.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="8LUEfL0u18nsBE5bOOD9" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T09:56:46.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="0cyTP3QSANFR9FBP_ElA" version="21.1.1" type="github">
   <diagram name="第 1 页" id="KuIml-AkiOZRVEyt4xdX">
     <mxGraphModel dx="2261" dy="3094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-4" target="eLSRIM-IV2K5nEaeKlRg-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eLSRIM-IV2K5nEaeKlRg-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;从物流服务商&lt;br&gt;获取交接单&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;从物流服务商&lt;br&gt;获取面单&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="275" y="1270" width="100" height="70" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-7" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-8" target="eLSRIM-IV2K5nEaeKlRg-9">
@@ -487,34 +487,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-147" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;SMT&lt;br&gt;打印交接单&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="15" y="-50" width="100" height="60" as="geometry" />
+          <mxGeometry x="-44" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-148" target="eLSRIM-IV2K5nEaeKlRg-157">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-148" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据&lt;br&gt;&amp;nbsp;handover_content_id &lt;br&gt;（大包编号id）&lt;br&gt;从第三方获取交接单 PDF&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="172.5" y="150" width="205" height="80" as="geometry" />
+          <mxGeometry x="113.5" y="200" width="205" height="80" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="eLSRIM-IV2K5nEaeKlRg-154">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="257.5" as="sourcePoint" />
+            <mxPoint x="216" y="307.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="275" y="290" />
-              <mxPoint x="110" y="290" />
+              <mxPoint x="216" y="340" />
+              <mxPoint x="51" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="eLSRIM-IV2K5nEaeKlRg-157">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="257.5" as="sourcePoint" />
+            <mxPoint x="216" y="307.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="eLSRIM-IV2K5nEaeKlRg-159">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="275" y="257.5" as="sourcePoint" />
+            <mxPoint x="216" y="307.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="275" y="290" />
-              <mxPoint x="440" y="290" />
+              <mxPoint x="216" y="340" />
+              <mxPoint x="381" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -522,44 +522,44 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-154" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;七牛云文件地址&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="50" y="337.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="-9" y="387.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-155" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="260" width="100" height="40" as="geometry" />
+          <mxGeometry x="-214" y="310" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-157" target="eLSRIM-IV2K5nEaeKlRg-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-157" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;PDF 文件字节流转换为 base64 编码字符串&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="215" y="337.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="156" y="387.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-159" target="eLSRIM-IV2K5nEaeKlRg-164">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-159" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;PDF 文件字节流&lt;br&gt;（不支持多个）&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="337.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="321" y="387.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-160" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-161" target="eLSRIM-IV2K5nEaeKlRg-162">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-161" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;响应数据的方式（方案可选）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="295" y="250" width="220" height="30" as="geometry" />
+          <mxGeometry x="236" y="300" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-162" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;建议选择用 base64 的方式&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
-          <mxGeometry x="559" y="240" width="120" height="87.5" as="geometry" />
+          <mxGeometry x="500" y="290" width="120" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-164" target="eLSRIM-IV2K5nEaeKlRg-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-164" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;前端对数据进行处理&lt;br&gt;调用打印程序&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="437.5" width="190" height="50" as="geometry" />
+          <mxGeometry x="121" y="487.5" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-166" target="eLSRIM-IV2K5nEaeKlRg-155">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-168" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;未创建&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eLSRIM-IV2K5nEaeKlRg-167">
           <mxGeometry x="-0.563" y="3" relative="1" as="geometry">
-            <mxPoint x="19" y="-3" as="offset" />
+            <mxPoint x="7" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-166" target="eLSRIM-IV2K5nEaeKlRg-148">
@@ -567,14 +567,14 @@
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-171" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;已创建&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="eLSRIM-IV2K5nEaeKlRg-170">
           <mxGeometry x="-0.1574" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-24" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-166" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;交接单是否&lt;br&gt;创建&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="15" y="30" width="100" height="90" as="geometry" />
+          <mxGeometry x="-44" y="80" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-174" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;SMT 打印交接单流程&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="-90" width="155" height="30" as="geometry" />
+          <mxGeometry x="-79" y="-40" width="155" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
