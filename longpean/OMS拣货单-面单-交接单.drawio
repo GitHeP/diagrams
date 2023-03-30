@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T08:28:38.902Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="nZzWS_KHDirs_NiKZj9Z" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T08:39:27.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yIw7_XR2f6hTfnoLYqwX" version="21.1.1" type="github">
   <diagram name="第 1 页" id="KuIml-AkiOZRVEyt4xdX">
     <mxGraphModel dx="2261" dy="3094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -217,52 +217,52 @@
           <mxGeometry x="400" y="520" width="60" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-58" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-237.5" y="-1560" width="250" height="120" as="geometry" />
+          <mxGeometry x="-480" y="-1170" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-59" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;拣货单：中票&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-227.5" y="-1550" width="110" height="30" as="geometry" />
+          <mxGeometry x="-470" y="-1160" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-60" value="SKU 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="-217.5" y="-1500" width="60" height="30" as="geometry" />
+          <mxGeometry x="-460" y="-1110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-62" value="SKU 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="-142.5" y="-1500" width="60" height="30" as="geometry" />
+          <mxGeometry x="-385" y="-1110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-63" value="SKU N" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="-67.5" y="-1500" width="60" height="30" as="geometry" />
+          <mxGeometry x="-310" y="-1110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-64" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;一个中票中会包含多个 SKU&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-237.5" y="-1620" width="240" height="50" as="geometry" />
+          <mxGeometry x="-480" y="-1230" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="117.5" y="-1560" width="250" height="120" as="geometry" />
+          <mxGeometry x="-125" y="-1170" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-66" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;拣货单：小票&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="127.5" y="-1550" width="110" height="30" as="geometry" />
+          <mxGeometry x="-115" y="-1160" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-67" value="SKU 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="137.5" y="-1500" width="60" height="30" as="geometry" />
+          <mxGeometry x="-105" y="-1110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-70" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;一个小票中只包含一个 SKU&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="117.5" y="-1620" width="240" height="50" as="geometry" />
+          <mxGeometry x="-125" y="-1230" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-71" target="eLSRIM-IV2K5nEaeKlRg-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-71" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;支持功能&lt;br&gt;数据准备&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="245" y="-1204" width="100" height="60" as="geometry" />
+          <mxGeometry x="335" y="-1384" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-72" target="eLSRIM-IV2K5nEaeKlRg-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-72" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;创建数据模板&lt;br&gt;t_sys_print_templete_data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-1120" width="210" height="60" as="geometry" />
+          <mxGeometry x="280" y="-1300" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-74" target="eLSRIM-IV2K5nEaeKlRg-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="-990" />
-              <mxPoint x="470" y="-1090" />
+              <mxPoint x="560" y="-1170" />
+              <mxPoint x="560" y="-1270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -275,7 +275,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-74" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;创建中票、小票打印模板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-1020" width="210" height="60" as="geometry" />
+          <mxGeometry x="280" y="-1200" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-78" target="eLSRIM-IV2K5nEaeKlRg-80">
           <mxGeometry relative="1" as="geometry" />
@@ -283,9 +283,9 @@
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-78" target="eLSRIM-IV2K5nEaeKlRg-74">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="-880" />
-              <mxPoint x="470" y="-880" />
-              <mxPoint x="470" y="-975" />
+              <mxPoint x="490" y="-1060" />
+              <mxPoint x="560" y="-1060" />
+              <mxPoint x="560" y="-1155" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -295,76 +295,76 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-78" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;参数配置中增加：&lt;br&gt;&lt;/font&gt;捡货单中票，捡货单小票&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-910" width="210" height="60" as="geometry" />
+          <mxGeometry x="280" y="-1090" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-80" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="245" y="-820" width="100" height="60" as="geometry" />
+          <mxGeometry x="335" y="-1000" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-84" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;打印拣货单支持功能前置数据准备&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="-1250" width="130" height="30" as="geometry" />
+          <mxGeometry x="325" y="-1430" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-85" target="eLSRIM-IV2K5nEaeKlRg-86">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-85" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;打印拣货单&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="775" y="-1340" width="100" height="60" as="geometry" />
+          <mxGeometry x="865" y="-1520" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-86" target="eLSRIM-IV2K5nEaeKlRg-88">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-86" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择要打印的订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-1246" width="210" height="60" as="geometry" />
+          <mxGeometry x="810" y="-1426" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-88" target="eLSRIM-IV2K5nEaeKlRg-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-88" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;选择打印模板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-1156" width="210" height="60" as="geometry" />
+          <mxGeometry x="810" y="-1336" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-90" target="eLSRIM-IV2K5nEaeKlRg-95">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-90" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-1066" width="210" height="180" as="geometry" />
+          <mxGeometry x="810" y="-1246" width="210" height="180" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-91" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据选择的打印模板确定使用的 DATA 模板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-1026" width="170" height="60" as="geometry" />
+          <mxGeometry x="830" y="-1206" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-92" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据 DATA 模板&lt;br&gt;获取模板中定义的&lt;br&gt;数据项&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="740" y="-956" width="170" height="60" as="geometry" />
+          <mxGeometry x="830" y="-1136" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-94" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;调用服务端处理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="735" y="-1066" width="120" height="30" as="geometry" />
+          <mxGeometry x="825" y="-1246" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-95" target="eLSRIM-IV2K5nEaeKlRg-98">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-95" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;前端处理数据调用打印机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="-856" width="210" height="60" as="geometry" />
+          <mxGeometry x="810" y="-1036" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-98" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="775" y="-770" width="100" height="60" as="geometry" />
+          <mxGeometry x="865" y="-950" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-100" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;打印拣货单流程&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="755" y="-1380" width="130" height="30" as="geometry" />
+          <mxGeometry x="845" y="-1560" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-102" target="eLSRIM-IV2K5nEaeKlRg-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-102" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;支持功能&lt;br&gt;数据准备&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="245" y="-584" width="100" height="60" as="geometry" />
+          <mxGeometry x="135" y="-664" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-104" target="eLSRIM-IV2K5nEaeKlRg-108">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-104" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;创建数据模板&lt;br&gt;t_sys_print_templete_data&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-500" width="210" height="60" as="geometry" />
+          <mxGeometry x="80" y="-580" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-108" target="eLSRIM-IV2K5nEaeKlRg-104">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="-370" />
-              <mxPoint x="470" y="-470" />
+              <mxPoint x="360" y="-450" />
+              <mxPoint x="360" y="-550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -377,7 +377,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-108" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;创建对应平台的面单模板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-400" width="210" height="60" as="geometry" />
+          <mxGeometry x="80" y="-480" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-112" target="eLSRIM-IV2K5nEaeKlRg-113">
           <mxGeometry relative="1" as="geometry" />
@@ -385,9 +385,9 @@
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-112" target="eLSRIM-IV2K5nEaeKlRg-108">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="-260" />
-              <mxPoint x="470" y="-260" />
-              <mxPoint x="470" y="-355" />
+              <mxPoint x="290" y="-340" />
+              <mxPoint x="360" y="-340" />
+              <mxPoint x="360" y="-435" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -397,58 +397,94 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-112" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;参数配置中增加：&lt;br&gt;&lt;/font&gt;面单打印参数&lt;br&gt;包括不同平台的面单配置&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="-290" width="210" height="60" as="geometry" />
+          <mxGeometry x="80" y="-370" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-113" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="245" y="-200" width="100" height="60" as="geometry" />
+          <mxGeometry x="135" y="-280" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-114" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;打印面单支持功能前置数据准备&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="-630" width="130" height="30" as="geometry" />
+          <mxGeometry x="125" y="-710" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-116" target="eLSRIM-IV2K5nEaeKlRg-118">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-116" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;打印面单&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="-670" width="100" height="60" as="geometry" />
+          <mxGeometry x="700" y="-820" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-118" target="eLSRIM-IV2K5nEaeKlRg-122">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-118" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;选择要打印的订单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="-576" width="210" height="60" as="geometry" />
+          <mxGeometry x="645" y="-740" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-122" target="eLSRIM-IV2K5nEaeKlRg-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eLSRIM-IV2K5nEaeKlRg-122" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="-500" width="210" height="390" as="geometry" />
-        </mxCell>
-        <mxCell id="eLSRIM-IV2K5nEaeKlRg-123" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据选择的打印模板确定使用的 DATA 模板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="-320" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eLSRIM-IV2K5nEaeKlRg-124" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据 DATA 模板&lt;br&gt;获取模板中定义的&lt;br&gt;数据项&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="-250" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="eLSRIM-IV2K5nEaeKlRg-125" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;调用服务端处理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1065" y="-490" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="eLSRIM-IV2K5nEaeKlRg-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-127" target="eLSRIM-IV2K5nEaeKlRg-128">
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-122" target="eLSRIM-IV2K5nEaeKlRg-134">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eLSRIM-IV2K5nEaeKlRg-127" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;前端处理数据调用打印机&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="-80" width="210" height="60" as="geometry" />
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-122" target="eLSRIM-IV2K5nEaeKlRg-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-122" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-650" width="540" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-123" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据选择的打印模板确定使用的 DATA 模板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="565" y="-510" width="375" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-124" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据 DATA 模板获取模板中定义的数据项&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="562.5" y="-470" width="375" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-125" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;调用服务端处理&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-640" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-127" target="eLSRIM-IV2K5nEaeKlRg-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-127" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;七牛云文件地址&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="525" y="-290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-128" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1115" y="20" width="100" height="60" as="geometry" />
+          <mxGeometry x="700" y="-120" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-129" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;打印面单流程&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1095" y="-710" width="130" height="30" as="geometry" />
+          <mxGeometry x="680" y="-860" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-130" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据订单平台选择对应的面单打印模板&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="-390" width="170" height="60" as="geometry" />
+          <mxGeometry x="565" y="-560" width="375" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-131" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据订单平台从第三方获取对应的面单 PDF&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="-460" width="170" height="60" as="geometry" />
+          <mxGeometry x="565" y="-610" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eLSRIM-IV2K5nEaeKlRg-132" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;根据获取到的数据项改写 PDF 文件&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="-180" width="170" height="60" as="geometry" />
+          <mxGeometry x="562.5" y="-420" width="377.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-134" target="eLSRIM-IV2K5nEaeKlRg-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-134" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;PDF 文件字节流转换为 base64 编码字符串&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-135" target="eLSRIM-IV2K5nEaeKlRg-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-135" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;PDF 文件字节流&lt;br&gt;（不支持多个）&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="855" y="-290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-138" target="eLSRIM-IV2K5nEaeKlRg-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-138" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;响应数据的方式（方案可选）&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="-360" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-139" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;建议选择用 base64 的方式&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="1">
+          <mxGeometry x="1050" y="-377.5" width="120" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eLSRIM-IV2K5nEaeKlRg-141" target="eLSRIM-IV2K5nEaeKlRg-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eLSRIM-IV2K5nEaeKlRg-141" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;前端对数据进行处理&lt;br&gt;调用打印程序&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="655" y="-190" width="190" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
