@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-30T01:24:18.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="x6QfPWCRX_uCRgaBsodU" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-30T01:37:16.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="oq1JIt6-_KMg7298Mx7n" version="21.1.1" type="github">
   <diagram name="第 1 页" id="KuIml-AkiOZRVEyt4xdX">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -98,6 +98,9 @@
         <mxCell id="3qagU8p-PGzFSOpaCyJv-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3qagU8p-PGzFSOpaCyJv-29" target="3qagU8p-PGzFSOpaCyJv-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="3qagU8p-PGzFSOpaCyJv-69" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;" edge="1" parent="1" source="3qagU8p-PGzFSOpaCyJv-29" target="3qagU8p-PGzFSOpaCyJv-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3qagU8p-PGzFSOpaCyJv-29" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;从面单提供方获取面单&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="370" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -169,6 +172,9 @@
         </mxCell>
         <mxCell id="3qagU8p-PGzFSOpaCyJv-65" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;物流服务商&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="770" y="810" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="3qagU8p-PGzFSOpaCyJv-68" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;针对不同的提供方进行配置，配置制定获取的 PDF 文件中第几页为面单。&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;arcSize=14;strokeWidth=2;size=0.125;" vertex="1" parent="1">
+          <mxGeometry x="720" y="335" width="150" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
