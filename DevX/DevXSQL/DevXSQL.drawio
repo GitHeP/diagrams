@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-04-08T02:24:15.278Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="21.1.5" etag="60hH5QsUPwyGGDYbkNXn" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-08T02:34:20.771Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="lD1oN-_yLq9gvvFEIcF7" version="21.1.5" type="github">
   <diagram name="第 1 页" id="UhUEQJS8GDLvYfTMcVj2">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CWedyXncNDXnPdNYyyou-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="650" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="CWedyXncNDXnPdNYyyou-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;SQL 生成&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWedyXncNDXnPdNYyyou-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;事务支持&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWedyXncNDXnPdNYyyou-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;指令执行&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWedyXncNDXnPdNYyyou-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;结果集映射&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CWedyXncNDXnPdNYyyou-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;DevXSQL 1.0&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
