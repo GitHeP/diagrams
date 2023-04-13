@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-13T08:05:27.182Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0t9pIWN83MY0FRMWVvWx" version="21.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-13T08:13:34.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="l6ZlESaVSIRgF7Y-v24U" version="21.1.5" type="github">
   <diagram name="第 1 页" id="Ibg6V7prkRar6uG4L-sk">
-    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,6 +24,9 @@
         </mxCell>
         <mxCell id="doY5iwpca_w2zG7-AEl_-12" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;控制核心业务逻辑&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="210" y="530" width="475" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="doY5iwpca_w2zG7-AEl_-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="doY5iwpca_w2zG7-AEl_-17" target="doY5iwpca_w2zG7-AEl_-38">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="doY5iwpca_w2zG7-AEl_-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="212.5" y="360" width="135" height="140" as="geometry" />
@@ -60,6 +63,9 @@
         </mxCell>
         <mxCell id="doY5iwpca_w2zG7-AEl_-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;响应数据抽取&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="565" y="465" width="110" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="doY5iwpca_w2zG7-AEl_-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;提供二方库&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;包含接口&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;请求数据封装对象&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;响应数据封装对象&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;工具类&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;尽可能少的在maven中引入传递依赖包&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#cce5ff;strokeColor=#36393d;rounded=1;size=0.05263157894736842;" vertex="1" parent="1">
+          <mxGeometry x="-110" y="280" width="235" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
