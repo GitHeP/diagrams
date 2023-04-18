@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T11:27:39.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="SbwPX3ZFDnz0z-LVKBUu" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T11:32:02.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="x_GytsxGmBgWqhnuE7Ow" version="21.1.8" type="github">
   <diagram name="第 1 页" id="Zu895qKpGqfJF8_NdcSO">
     <mxGraphModel dx="2261" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="1rTdvhS_EnYdTGoQ4SmT-105" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="130" width="890" height="920" as="geometry" />
+        </mxCell>
         <mxCell id="1rTdvhS_EnYdTGoQ4SmT-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;没有交接单&lt;/font&gt;&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1rTdvhS_EnYdTGoQ4SmT-2" target="1rTdvhS_EnYdTGoQ4SmT-7">
           <mxGeometry x="-0.1698" relative="1" as="geometry">
             <mxPoint x="590" y="300" as="targetPoint" />
@@ -117,7 +120,7 @@
           <mxGeometry x="110" y="710" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1rTdvhS_EnYdTGoQ4SmT-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;验证快递公司&lt;br&gt;验证物流方式&lt;br&gt;验证小包数量超过200&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="630" width="160" height="80" as="geometry" />
+          <mxGeometry x="-130" y="610" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1rTdvhS_EnYdTGoQ4SmT-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1rTdvhS_EnYdTGoQ4SmT-66" target="1rTdvhS_EnYdTGoQ4SmT-76">
           <mxGeometry relative="1" as="geometry" />
@@ -243,6 +246,9 @@
         </mxCell>
         <mxCell id="1rTdvhS_EnYdTGoQ4SmT-99" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;订单交接&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="370" y="-70" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1rTdvhS_EnYdTGoQ4SmT-106" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;当前订单不存在交接单&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="170" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
