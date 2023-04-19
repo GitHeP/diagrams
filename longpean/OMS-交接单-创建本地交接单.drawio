@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T01:21:46.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="27Rudx-oyZQy2xayqKm5" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T01:27:22.127Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="QwrX1u6Fl3ayeAA3d1cO" version="21.1.8" type="github">
   <diagram name="第 1 页" id="Zu895qKpGqfJF8_NdcSO">
     <mxGraphModel dx="2336" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,6 +258,9 @@
         </mxCell>
         <mxCell id="1rTdvhS_EnYdTGoQ4SmT-112" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;变更订单所属交接单的前提是，原交接单必须是草稿状态.&lt;br&gt;&lt;br&gt;如果该订单是原有交接单的第一条订单场景如何处理？是否要对原有交接单记录进行相应变更？或不对原有交接单记录进行变更，直接将该订单关联新的交接单即可？&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;strokeWidth=2;size=0.07894736842105263;" vertex="1" parent="1">
           <mxGeometry x="1480" y="660" width="250" height="187.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1rTdvhS_EnYdTGoQ4SmT-118" value="&lt;h1&gt;术语说明&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;当前订单： 订单交接输入框被扫描的订单；&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;当前交接单： 交接单页面内展示的唯一交接单;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="-90" width="400" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
