@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T11:45:04.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="hvES_Cd-mX6Vn8a-GSrY" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T01:11:34.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="IBdSP6w4Y3r3PaumJSaV" version="21.1.8" type="github">
   <diagram name="第 1 页" id="Zu895qKpGqfJF8_NdcSO">
-    <mxGraphModel dx="2261" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2336" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,8 +85,8 @@
         <mxCell id="1rTdvhS_EnYdTGoQ4SmT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1rTdvhS_EnYdTGoQ4SmT-13" target="1rTdvhS_EnYdTGoQ4SmT-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1rTdvhS_EnYdTGoQ4SmT-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;已当前订单为标准创建交接单草稿&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="590" y="805" width="120" height="40" as="geometry" />
+        <mxCell id="1rTdvhS_EnYdTGoQ4SmT-13" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;已当前订单为标准创建交接单草稿&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FF3333;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="590" y="805" width="130" height="45" as="geometry" />
         </mxCell>
         <mxCell id="1rTdvhS_EnYdTGoQ4SmT-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1rTdvhS_EnYdTGoQ4SmT-24" target="1rTdvhS_EnYdTGoQ4SmT-37">
           <mxGeometry relative="1" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1rTdvhS_EnYdTGoQ4SmT-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;返回当前订单数据&lt;br&gt;和交接单数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="590" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="595" y="890" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1rTdvhS_EnYdTGoQ4SmT-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1rTdvhS_EnYdTGoQ4SmT-37" target="1rTdvhS_EnYdTGoQ4SmT-46">
           <mxGeometry relative="1" as="geometry">
@@ -119,7 +119,7 @@
         <mxCell id="1rTdvhS_EnYdTGoQ4SmT-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1rTdvhS_EnYdTGoQ4SmT-46" target="1rTdvhS_EnYdTGoQ4SmT-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1rTdvhS_EnYdTGoQ4SmT-46" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;订单加入到&lt;br&gt;当前交接单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1rTdvhS_EnYdTGoQ4SmT-46" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;订单加入到&lt;br&gt;当前交接单&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#FF3333;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="110" y="710" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="1rTdvhS_EnYdTGoQ4SmT-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;验证快递公司&lt;br&gt;验证物流方式&lt;br&gt;验证小包数量超过200&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;" vertex="1" parent="1">
@@ -230,7 +230,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1rTdvhS_EnYdTGoQ4SmT-95" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;将当前订单转入到&lt;br&gt;当前交接单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1rTdvhS_EnYdTGoQ4SmT-113" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="1rTdvhS_EnYdTGoQ4SmT-95" target="1rTdvhS_EnYdTGoQ4SmT-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1rTdvhS_EnYdTGoQ4SmT-95" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;将当前订单转入到当前交接单&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FF3333;strokeColor=#A50040;fontColor=#ffffff;fillStyle=auto;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="1231" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1rTdvhS_EnYdTGoQ4SmT-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1rTdvhS_EnYdTGoQ4SmT-99" target="1rTdvhS_EnYdTGoQ4SmT-66">
@@ -244,6 +247,9 @@
         </mxCell>
         <mxCell id="1rTdvhS_EnYdTGoQ4SmT-111" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;当前订单&lt;br&gt;存在交接单&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1201" y="-30" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1rTdvhS_EnYdTGoQ4SmT-112" value="&lt;font color=&quot;#ff3333&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;&quot;&gt;如果该订单是原有交接单的第一条订单场景如何处理？是否要对原有交接单记录进行相应变更？或不对原有交接单记录进行变更，直接将该订单关联新的交接单即可？&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;strokeWidth=2;size=0.07894736842105263;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="657.5" width="220" height="147.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
