@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T11:00:15.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="SQvjendxMrAo5gux-yhp" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T11:08:46.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PUgSECNFXXDtzBWvQgIq" version="21.1.9" type="github">
   <diagram name="第 1 页" id="eg49ZaoTi7A60mhF3NfQ">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,25 +10,28 @@
         <mxCell id="jHrgZvA_I-LLRUM1Vone-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;平台接口层&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="90" y="400" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="jHrgZvA_I-LLRUM1Vone-34" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="jHrgZvA_I-LLRUM1Vone-4" target="jHrgZvA_I-LLRUM1Vone-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jHrgZvA_I-LLRUM1Vone-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="490" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jHrgZvA_I-LLRUM1Vone-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jHrgZvA_I-LLRUM1Vone-5" target="jHrgZvA_I-LLRUM1Vone-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jHrgZvA_I-LLRUM1Vone-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;lazada&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jHrgZvA_I-LLRUM1Vone-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;lazada&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="415" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jHrgZvA_I-LLRUM1Vone-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jHrgZvA_I-LLRUM1Vone-6" target="jHrgZvA_I-LLRUM1Vone-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jHrgZvA_I-LLRUM1Vone-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;wish&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jHrgZvA_I-LLRUM1Vone-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;wish&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="415" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jHrgZvA_I-LLRUM1Vone-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jHrgZvA_I-LLRUM1Vone-7" target="jHrgZvA_I-LLRUM1Vone-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jHrgZvA_I-LLRUM1Vone-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;smt&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jHrgZvA_I-LLRUM1Vone-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;smt&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="415" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jHrgZvA_I-LLRUM1Vone-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;...&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -36,6 +39,9 @@
         </mxCell>
         <mxCell id="jHrgZvA_I-LLRUM1Vone-9" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;业务层&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="90" y="300" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jHrgZvA_I-LLRUM1Vone-36" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="jHrgZvA_I-LLRUM1Vone-10" target="jHrgZvA_I-LLRUM1Vone-35">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jHrgZvA_I-LLRUM1Vone-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="240" y="300" width="490" height="80" as="geometry" />
@@ -52,7 +58,7 @@
         <mxCell id="jHrgZvA_I-LLRUM1Vone-15" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Web&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="240" y="200" width="490" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jHrgZvA_I-LLRUM1Vone-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;lazada-oms&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="jHrgZvA_I-LLRUM1Vone-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;lazada-oms&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="160" y="600" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jHrgZvA_I-LLRUM1Vone-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;移除订单&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -70,14 +76,17 @@
         <mxCell id="jHrgZvA_I-LLRUM1Vone-21" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;获取文件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="315" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jHrgZvA_I-LLRUM1Vone-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;wish-oms&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="jHrgZvA_I-LLRUM1Vone-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;wish-oms&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="360" y="600" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jHrgZvA_I-LLRUM1Vone-24" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;smt-oms&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="jHrgZvA_I-LLRUM1Vone-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;smt-oms&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="540" y="600" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jHrgZvA_I-LLRUM1Vone-27" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;客户端&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="90" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jHrgZvA_I-LLRUM1Vone-38" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="jHrgZvA_I-LLRUM1Vone-28" target="jHrgZvA_I-LLRUM1Vone-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jHrgZvA_I-LLRUM1Vone-28" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="240" y="100" width="490" height="80" as="geometry" />
@@ -90,6 +99,15 @@
         </mxCell>
         <mxCell id="jHrgZvA_I-LLRUM1Vone-31" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;smt&lt;br&gt;交接单页面&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="115" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jHrgZvA_I-LLRUM1Vone-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;这一层只需要关注接口：&lt;br&gt;PlatformHandoverSheetOpenApi&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;size=0.1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="450" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jHrgZvA_I-LLRUM1Vone-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;本层处理龙品业务逻辑，参考接口：&lt;br&gt;HandoverSheetService&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;size=0.16666666666666666;" vertex="1" parent="1">
+          <mxGeometry x="870" y="325" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="jHrgZvA_I-LLRUM1Vone-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;不同平台有差异性，比如一些接口参数的差异，不同平台会对应不同页面，在接口上通过 Map&amp;lt;String , Object&amp;gt; ext 参数来适配不同平台。&lt;br&gt;业务层不会对 ext 参数做校验，需要不同平台接口层自身完成。&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;size=0.11764705882352941;" vertex="1" parent="1">
+          <mxGeometry x="840" y="100" width="280" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
