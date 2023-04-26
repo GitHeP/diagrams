@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-26T11:08:46.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="PUgSECNFXXDtzBWvQgIq" version="21.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-26T11:09:29.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="wI1rlD4NUm3ptT5Ej76w" version="21.1.9" type="github">
   <diagram name="第 1 页" id="eg49ZaoTi7A60mhF3NfQ">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,6 +108,9 @@
         </mxCell>
         <mxCell id="jHrgZvA_I-LLRUM1Vone-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;不同平台有差异性，比如一些接口参数的差异，不同平台会对应不同页面，在接口上通过 Map&amp;lt;String , Object&amp;gt; ext 参数来适配不同平台。&lt;br&gt;业务层不会对 ext 参数做校验，需要不同平台接口层自身完成。&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;size=0.11764705882352941;" vertex="1" parent="1">
           <mxGeometry x="840" y="100" width="280" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="jHrgZvA_I-LLRUM1Vone-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;OMS 交接单功能示意图&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
