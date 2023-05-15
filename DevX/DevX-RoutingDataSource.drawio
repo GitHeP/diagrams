@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-15T11:41:09.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Z9JinjdBTIRrfg4Mrfx_" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-15T11:42:02.572Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="3az75gBeHwmYYbDZYxvG" version="21.2.9" type="github">
   <diagram name="第 1 页" id="yUAKFgmiYI_kj1EXI8XT">
     <mxGraphModel dx="1014" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,10 +31,10 @@
         <mxCell id="vJH0OtKHY2Miuph9InEm-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;MyBatis Integration&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="279" y="290" width="470" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vJH0OtKHY2Miuph9InEm-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Spring Integration&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="vJH0OtKHY2Miuph9InEm-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Spring Integration&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="279" y="240" width="470" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vJH0OtKHY2Miuph9InEm-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Spring Boot Configuration Supports&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="vJH0OtKHY2Miuph9InEm-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Spring Boot Configuration Supports&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="279" y="130" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vJH0OtKHY2Miuph9InEm-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ReadWriteSplittingRoutingDataSource&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
@@ -49,13 +49,13 @@
         <mxCell id="vJH0OtKHY2Miuph9InEm-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Easy to expand&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="100" y="410" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vJH0OtKHY2Miuph9InEm-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Auto TX detection&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="vJH0OtKHY2Miuph9InEm-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Auto TX detection&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="279" y="180" width="221" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vJH0OtKHY2Miuph9InEm-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Existing TX&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;always route to write datasource&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="vJH0OtKHY2Miuph9InEm-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Existing TX&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;always route to write datasource&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="514" y="180" width="236" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vJH0OtKHY2Miuph9InEm-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Native datasource configuration with zero intrusion&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="vJH0OtKHY2Miuph9InEm-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Native datasource configuration with zero intrusion&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
           <mxGeometry x="279" y="80" width="470" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vJH0OtKHY2Miuph9InEm-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJH0OtKHY2Miuph9InEm-19" target="vJH0OtKHY2Miuph9InEm-20">
