@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-16T11:13:46.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="VM4sa4aAlbGi12dskdEk" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T15:22:13.022Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="bjRXP1ZUa5ulOJeifVb4" version="21.3.2" type="github">
   <diagram name="第 1 页" id="yUAKFgmiYI_kj1EXI8XT">
-    <mxGraphModel dx="1014" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -109,29 +109,119 @@
         <mxCell id="vJH0OtKHY2Miuph9InEm-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;RoutingContext&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="795" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DO5tkAUlz4x5aCXxbuHO-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Auto&amp;nbsp;initialize DataSource&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="DO5tkAUlz4x5aCXxbuHO-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Auto&amp;nbsp;initialize DataSource&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="279" y="-160" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DO5tkAUlz4x5aCXxbuHO-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;DataSourceInitializer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+        <mxCell id="DO5tkAUlz4x5aCXxbuHO-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;DataSourceInitializer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
           <mxGeometry x="524" y="-160" width="226" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DO5tkAUlz4x5aCXxbuHO-3" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Record &lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Executing&lt;/b&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;SQL&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="DO5tkAUlz4x5aCXxbuHO-3" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Record &lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;Executing&lt;/b&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;SQL&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="279" y="240" width="221" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DO5tkAUlz4x5aCXxbuHO-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ExecutingSqlInterceptor&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="DO5tkAUlz4x5aCXxbuHO-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ExecutingSqlInterceptor&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="516.75" y="240" width="230.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DO5tkAUlz4x5aCXxbuHO-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Readonly TX&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;always route to read datasource&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="DO5tkAUlz4x5aCXxbuHO-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Readonly TX&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;always route to read datasource&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="280" y="70" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DO5tkAUlz4x5aCXxbuHO-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ExecuteWithoutResultConsumerRoutingSupport&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="DO5tkAUlz4x5aCXxbuHO-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ExecuteWithoutResultConsumerRoutingSupport&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="280" y="30" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DO5tkAUlz4x5aCXxbuHO-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;TransactionCallbackRoutingSupport&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="DO5tkAUlz4x5aCXxbuHO-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;TransactionCallbackRoutingSupport&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" parent="1" vertex="1">
           <mxGeometry x="280" y="-10" width="470" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="DO5tkAUlz4x5aCXxbuHO-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Spans Thread Support&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+        <mxCell id="DO5tkAUlz4x5aCXxbuHO-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Spans Thread Support&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" parent="1" vertex="1">
           <mxGeometry x="279" y="-210" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="229" y="1200" width="510" height="780" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;DataSource 0&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1920" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;DataSource 1&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1920" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;DataSource 2&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="579" y="1920" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;RoutingDataSource&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1810" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;RoutingRule&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1860" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;LoadBalancer&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1860" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;RoutingContext&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="579" y="1860" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="aRDAIjeJ8f5W-PLzRV40-9" target="aRDAIjeJ8f5W-PLzRV40-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;MyBatis Integration&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1710" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Spring Integration&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1660" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Spring Boot Configuration Support&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1360" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-12" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;JDBC API&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1760" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-13" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Application code &lt;br&gt;zero intrusion&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1240" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-14" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Easy to use&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1330" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Easy to expand&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1420" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-16" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Auto @Transactional&amp;nbsp;detection&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1570" width="471" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-17" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Existing TX&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;always route to write datasource&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1530" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-18" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Native datasource configuration zero intrusion&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="249.5" y="1310" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-19" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b style=&quot;&quot;&gt;DevX RoutingDataSource&amp;nbsp;Architecture&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1150" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Auto&amp;nbsp;initialize DataSource&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1260" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;DataSourceInitializer&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="494" y="1260" width="226" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Readonly TX&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;always route to read datasource&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1490" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-25" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;ExecuteWithoutResultConsumerRoutingSupport&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1450" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-26" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;TransactionCallbackRoutingSupport&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1410" width="470" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Spans Thread Support&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1210" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Routing With Method Name&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1700" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="aRDAIjeJ8f5W-PLzRV40-30" target="aRDAIjeJ8f5W-PLzRV40-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Spring Data JPA&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1610" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aRDAIjeJ8f5W-PLzRV40-31" value="&lt;b style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;Routing With Method Name&lt;br&gt;（Experimental stage）&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1600" width="250" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
