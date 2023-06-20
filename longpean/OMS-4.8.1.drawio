@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T08:00:46.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_esndOiYK8z3RFKX60Kd" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T08:01:05.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="VXWEfYpo37cIJNJKzFBb" version="21.5.0" type="github">
   <diagram name="第 1 页" id="Ml2o0vemRFtSchdJ6_I8">
     <mxGraphModel dx="1014" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -284,7 +284,7 @@
             <mxPoint x="770" y="2270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AP9Yv6ge0JKQDtqOG9_D-70" value="«interface»&lt;br&gt;&lt;b&gt;OrderSkuSharingAmountEquallyAlgorithmFactory&lt;br&gt;订单 Sku 金额均摊算法工厂&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;SharingAmountEquallyAlgorithm&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b&gt;create&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;ShipDiscount&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Algorithm();&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="AP9Yv6ge0JKQDtqOG9_D-70" value="«interface»&lt;br&gt;&lt;b&gt;OrderSkuSharingAmountEquallyAlgorithmFactory&lt;br&gt;订单 Sku 金额均摊算法工厂&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;SharingAmountEquallyAlgorithm&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b&gt;create&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;ShipDiscount&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Algorithm();&lt;br&gt;&lt;/b&gt;&lt;b&gt;...&lt;br&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="14" y="2150" width="406" height="130" as="geometry" />
         </mxCell>
         <mxCell id="AP9Yv6ge0JKQDtqOG9_D-71" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
