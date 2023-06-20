@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T02:32:51.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ATHzlHGn37NMOVUXELwv" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T02:33:20.086Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="F8Y6eMI-QN0esG5Z1ic8" version="21.5.0" type="github">
   <diagram name="第 1 页" id="Ml2o0vemRFtSchdJ6_I8">
     <mxGraphModel dx="1014" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -198,7 +198,7 @@
         <mxCell id="AP9Yv6ge0JKQDtqOG9_D-31" value="disassembly_type&amp;nbsp;拆合单类型(0.合单 1.拆单)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP9Yv6ge0JKQDtqOG9_D-21">
           <mxGeometry y="60" width="255" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AP9Yv6ge0JKQDtqOG9_D-32" value="disassembly_order_id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP9Yv6ge0JKQDtqOG9_D-21">
+        <mxCell id="AP9Yv6ge0JKQDtqOG9_D-32" value="disassembly_order_id 拆单合单后龙品订单id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="AP9Yv6ge0JKQDtqOG9_D-21">
           <mxGeometry y="90" width="255" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AP9Yv6ge0JKQDtqOG9_D-26" value="t_oms_shipped_order_details" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
