@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T07:57:37.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JCfN33oIRX0LcP8kQ5bh" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T08:00:46.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_esndOiYK8z3RFKX60Kd" version="21.5.0" type="github">
   <diagram name="第 1 页" id="Ml2o0vemRFtSchdJ6_I8">
     <mxGraphModel dx="1014" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -246,7 +246,7 @@
           <mxGeometry x="547.5" y="1650" width="122.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AP9Yv6ge0JKQDtqOG9_D-41" value="«interface»&lt;br&gt;&lt;b&gt;SharingAmountEquallyAlgorithm&lt;br&gt;金额均摊算法接口&lt;br&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="239" y="2180" width="236" height="70" as="geometry" />
+          <mxGeometry x="500" y="2180" width="236" height="70" as="geometry" />
         </mxCell>
         <mxCell id="AP9Yv6ge0JKQDtqOG9_D-47" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;br&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;V1ShipDiscountSharingEquallyAlgorithm&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;平台佣金均摊&lt;/b&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="30" y="2320" width="250" height="62" as="geometry" />
@@ -284,8 +284,14 @@
             <mxPoint x="770" y="2270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AP9Yv6ge0JKQDtqOG9_D-70" value="«interface»&lt;br&gt;&lt;b&gt;OrderSkuSharingAmountEquallyAlgorithmFactory&lt;br&gt;订单 Sku 金额均摊算法工厂&lt;br&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="224" y="2690" width="346" height="70" as="geometry" />
+        <mxCell id="AP9Yv6ge0JKQDtqOG9_D-70" value="«interface»&lt;br&gt;&lt;b&gt;OrderSkuSharingAmountEquallyAlgorithmFactory&lt;br&gt;订单 Sku 金额均摊算法工厂&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;SharingAmountEquallyAlgorithm&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b&gt;create&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;ShipDiscount&lt;/b&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Algorithm();&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="14" y="2150" width="406" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="AP9Yv6ge0JKQDtqOG9_D-71" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="420" y="2520" width="40" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="AP9Yv6ge0JKQDtqOG9_D-72" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="14" y="2230" width="406" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
