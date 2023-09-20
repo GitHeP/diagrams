@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-20T10:08:31.754Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="UTIbgcrKSisYTshHFZ5Y" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-20T14:51:32.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="z-kX-8c4Dou5vaWqk5WI" version="21.7.5" type="github">
   <diagram name="第 1 页" id="0abql_iOvC0QdY2ZX0is">
-    <mxGraphModel dx="1841" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,83 +165,104 @@
         <mxCell id="taZi2zHfxL4B1svhan_J-19" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-790" y="1020" width="50" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-200" y="1500" width="370" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-7" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3lszufqdUvXLjo91GpNb-2" target="3lszufqdUvXLjo91GpNb-6">
+        <mxCell id="3lszufqdUvXLjo91GpNb-7" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="3lszufqdUvXLjo91GpNb-2" target="3lszufqdUvXLjo91GpNb-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3lszufqdUvXLjo91GpNb-2" target="3lszufqdUvXLjo91GpNb-18">
+        <mxCell id="3lszufqdUvXLjo91GpNb-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="3lszufqdUvXLjo91GpNb-2" target="3lszufqdUvXLjo91GpNb-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3lszufqdUvXLjo91GpNb-2" target="3lszufqdUvXLjo91GpNb-25">
+        <mxCell id="3lszufqdUvXLjo91GpNb-26" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="3lszufqdUvXLjo91GpNb-2" target="3lszufqdUvXLjo91GpNb-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3lszufqdUvXLjo91GpNb-2" target="3lszufqdUvXLjo91GpNb-3">
+        <mxCell id="3lszufqdUvXLjo91GpNb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3lszufqdUvXLjo91GpNb-2" target="3lszufqdUvXLjo91GpNb-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;getHandlerInternal&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;根据 http 请求获取控制器方法&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;getHandlerInternal&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;根据 http 请求获取控制器方法&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-170" y="1545" width="310" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;getHandlerExecutionChain&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;把控制器方法和拦截器组合成执行链条&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;getHandlerExecutionChain&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;把控制器方法和拦截器组合成执行链条&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-170" y="1620" width="310" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AbstractHandlerMapping#getHandler&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;AbstractHandlerMapping#getHandler&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-190" y="1510" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3lszufqdUvXLjo91GpNb-6" target="3lszufqdUvXLjo91GpNb-9">
+        <mxCell id="3lszufqdUvXLjo91GpNb-13" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="3lszufqdUvXLjo91GpNb-6" target="3lszufqdUvXLjo91GpNb-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="565" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-17" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="3lszufqdUvXLjo91GpNb-6" target="3lszufqdUvXLjo91GpNb-16">
+        <mxCell id="3lszufqdUvXLjo91GpNb-17" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" parent="1" source="3lszufqdUvXLjo91GpNb-6" target="3lszufqdUvXLjo91GpNb-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="575" y="1500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-6" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AbstractUrlHandlerMapping&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;根据请求路径匹配&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-6" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AbstractUrlHandlerMapping&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;根据请求路径匹配&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="1465" width="245" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-12" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="3lszufqdUvXLjo91GpNb-9" target="3lszufqdUvXLjo91GpNb-11">
+        <mxCell id="3lszufqdUvXLjo91GpNb-12" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="3lszufqdUvXLjo91GpNb-9" target="3lszufqdUvXLjo91GpNb-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3lszufqdUvXLjo91GpNb-9" target="3lszufqdUvXLjo91GpNb-14">
+        <mxCell id="3lszufqdUvXLjo91GpNb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="3lszufqdUvXLjo91GpNb-9" target="3lszufqdUvXLjo91GpNb-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-9" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;AbstractDetectingUrlHandlerMapping&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;&quot;&gt;在 URL 中指定 bean 名称，直接指定控制器（我觉得存在远程调用的风险最好别用）&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-9" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;AbstractDetectingUrlHandlerMapping&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;&quot;&gt;在 URL 中指定 bean 名称，直接指定控制器（我觉得存在远程调用的风险最好别用）&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="595" y="1410" width="320" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-11" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 16px;&quot;&gt;bean 名称以 &quot;/&quot; 开头的&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;size=0.125;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-11" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 16px;&quot;&gt;bean 名称以 &quot;/&quot; 开头的&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;size=0.125;" parent="1" vertex="1">
           <mxGeometry x="690" y="1350" width="208" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-14" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;BeanNameUrlHandlerMapping&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;把容器内所有以 / 开头的 bean 注册到一个 Map 中&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-14" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;BeanNameUrlHandlerMapping&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;把容器内所有以 / 开头的 bean 注册到一个 Map 中&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="960" y="1417.5" width="360" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-16" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;SimpleUrlHandlerMapping&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;简单的 URL 匹配控制器&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-16" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;SimpleUrlHandlerMapping&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;简单的 URL 匹配控制器&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="595" y="1505" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-22" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3lszufqdUvXLjo91GpNb-18" target="3lszufqdUvXLjo91GpNb-21">
+        <mxCell id="3lszufqdUvXLjo91GpNb-22" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="3lszufqdUvXLjo91GpNb-18" target="3lszufqdUvXLjo91GpNb-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="575" y="1597.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;AbstractHandlerMethodMapping&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;从&amp;nbsp;MappingRegistry 里面找类型是&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;HandlerMethod 的控制器方法，关键方法&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;getMatchingMapping&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;AbstractHandlerMethodMapping&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;从&amp;nbsp;MappingRegistry 里面找类型是&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;HandlerMethod 的控制器方法，关键方法&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;getMatchingMapping&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="1540" width="270" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-24" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="3lszufqdUvXLjo91GpNb-21" target="3lszufqdUvXLjo91GpNb-23">
+        <mxCell id="3lszufqdUvXLjo91GpNb-24" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="3lszufqdUvXLjo91GpNb-21" target="3lszufqdUvXLjo91GpNb-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-21" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;RequestMappingInfoHandlerMapping&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;@RequestMapping 注解的方法会注册到&amp;nbsp;MappingRegistry 中&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-21" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;RequestMappingInfoHandlerMapping&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;@RequestMapping 注解的方法会注册到&amp;nbsp;MappingRegistry 中&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="595" y="1570" width="275" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-23" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;会将&amp;nbsp;@RequestMapping 注解转换为&amp;nbsp;RequestMappingInfo 对象&lt;br&gt;关键方法&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;createRequestMappingInfo&lt;/font&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;size=0.21621621621621623;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-23" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;会将&amp;nbsp;@RequestMapping 注解转换为&amp;nbsp;RequestMappingInfo 对象&lt;br&gt;关键方法&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;createRequestMappingInfo&lt;/font&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=0;size=0.21621621621621623;" parent="1" vertex="1">
           <mxGeometry x="670" y="1681" width="367.5" height="72.5" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;RouterFunctionMapping&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;使用&amp;nbsp;RouterFunction 来处理请求不常用不多说了&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-25" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;RouterFunctionMapping&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;使用&amp;nbsp;RouterFunction 来处理请求不常用不多说了&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="260" y="1650" width="270" height="67.5" as="geometry" />
         </mxCell>
-        <mxCell id="3lszufqdUvXLjo91GpNb-28" value="&lt;font color=&quot;#7f00ff&quot; style=&quot;font-size: 24px;&quot;&gt;HandlerMapping &lt;br&gt;寻找控制器的过程&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3lszufqdUvXLjo91GpNb-28" value="&lt;font color=&quot;#7f00ff&quot; style=&quot;font-size: 24px;&quot;&gt;HandlerMapping &lt;br&gt;寻找控制器的过程&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-120" y="1400" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Q98ZkcQ8B9xDj1xsU-A5-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1870" width="460" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Q98ZkcQ8B9xDj1xsU-A5-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="1925" width="365" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Q98ZkcQ8B9xDj1xsU-A5-3" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Handler&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1995" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Q98ZkcQ8B9xDj1xsU-A5-4" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Interceptor 2&amp;nbsp; before&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1950" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q98ZkcQ8B9xDj1xsU-A5-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Interceptor 2&amp;nbsp; after&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="2090" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q98ZkcQ8B9xDj1xsU-A5-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Interceptor 1&amp;nbsp; before&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1880" width="205" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q98ZkcQ8B9xDj1xsU-A5-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Interceptor 1&amp;nbsp; after&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="2150" width="205" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
