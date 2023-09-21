@@ -1,9 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2023-09-21T09:50:53.131Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.5" etag="ViuT9ocsxCRqe-29Nrn4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-21T10:17:51.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="o8N-IZ65m6y47WvsOJGo" version="21.7.5" type="github">
   <diagram name="第 1 页" id="WGilPYq7rBUbruQuQdFH">
-    <mxGraphModel>
+    <mxGraphModel dx="1841" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3CuMKUdmIOEF1506szGW-6" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3CuMKUdmIOEF1506szGW-1" target="3CuMKUdmIOEF1506szGW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-8" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3CuMKUdmIOEF1506szGW-1" target="3CuMKUdmIOEF1506szGW-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CuMKUdmIOEF1506szGW-1" target="3CuMKUdmIOEF1506szGW-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="200" />
+              <mxPoint x="140" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3CuMKUdmIOEF1506szGW-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="130" as="sourcePoint" />
+            <mxPoint x="450" y="210" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="200" />
+              <mxPoint x="460" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;拆单&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3CuMKUdmIOEF1506szGW-14">
+          <mxGeometry x="-0.8553" relative="1" as="geometry">
+            <mxPoint y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;原始订单 1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="100" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;店子 A 7个&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;店子 B 9个&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-18" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="3CuMKUdmIOEF1506szGW-9" target="3CuMKUdmIOEF1506szGW-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-24" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3CuMKUdmIOEF1506szGW-9" target="3CuMKUdmIOEF1506szGW-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3CuMKUdmIOEF1506szGW-9" target="3CuMKUdmIOEF1506szGW-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;订单 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-21" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3CuMKUdmIOEF1506szGW-11" target="3CuMKUdmIOEF1506szGW-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-22" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3CuMKUdmIOEF1506szGW-11" target="3CuMKUdmIOEF1506szGW-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;订单 3&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;店子 A 2个&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-19" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;店子 A 5 个&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="220" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;店子 B 5个&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="270" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;店子 B 4个&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CuMKUdmIOEF1506szGW-25" target="3CuMKUdmIOEF1506szGW-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="300" />
+              <mxPoint x="140" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-40" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;合单&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3CuMKUdmIOEF1506szGW-28">
+          <mxGeometry x="0.6391" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-31" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="3CuMKUdmIOEF1506szGW-25" target="3CuMKUdmIOEF1506szGW-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="265" />
+              <mxPoint x="390" y="310" />
+              <mxPoint x="470" y="310" />
+              <mxPoint x="470" y="375" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-25" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;订单 4&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-37" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.446;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3CuMKUdmIOEF1506szGW-26" target="3CuMKUdmIOEF1506szGW-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-38" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="3CuMKUdmIOEF1506szGW-26" target="3CuMKUdmIOEF1506szGW-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-39" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="3CuMKUdmIOEF1506szGW-26" target="3CuMKUdmIOEF1506szGW-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;订单 5&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;店子 C 5 个&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;店子 A 2个&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-33" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;店子 B 4个&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3CuMKUdmIOEF1506szGW-35" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;店子 C 5 个&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
