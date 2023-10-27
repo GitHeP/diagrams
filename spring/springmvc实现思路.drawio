@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T07:09:34.917Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="K6RG-n-BX3zkISOxIjde" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T07:32:33.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="YEswSZRyvOnPR5Vu7mnd" version="22.0.8" type="github">
   <diagram name="第 1 页" id="0abql_iOvC0QdY2ZX0is">
     <mxGraphModel dx="1841" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -425,6 +425,12 @@
         <mxCell id="_K4YShypGptqXT68-Soc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-9" target="_K4YShypGptqXT68-Soc-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="_K4YShypGptqXT68-Soc-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-9" target="_K4YShypGptqXT68-Soc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_K4YShypGptqXT68-Soc-21" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-9" target="_K4YShypGptqXT68-Soc-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_K4YShypGptqXT68-Soc-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;HandlerMethodArgumentResolver&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="3598.25" width="230" height="43.5" as="geometry" />
         </mxCell>
@@ -436,6 +442,12 @@
         </mxCell>
         <mxCell id="_K4YShypGptqXT68-Soc-16" value="Java Object" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="55" y="3590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_K4YShypGptqXT68-Soc-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ErrorsMethodArgumentResolver&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;支持&amp;nbsp;org.springframework.validation.Errors 类型参数&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-662.5" y="3750" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_K4YShypGptqXT68-Soc-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ExpressionValueMethodArgumentResolver&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;支持 @Value&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;注解参数和 SPEL 表达式&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="3750" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
