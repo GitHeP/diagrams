@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T07:50:35.867Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="aUVdUPFhEZRqx8lpukm-" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T08:28:40.842Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="ybitJ9nRLU7_2UvldsGe" version="22.0.8" type="github">
   <diagram name="第 1 页" id="0abql_iOvC0QdY2ZX0is">
     <mxGraphModel dx="1841" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -392,80 +392,95 @@
         <mxCell id="3CwiVeuf_U36mDHTG-8X-51" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;HandlerFunction&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="-306.5" y="2865" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-1" value="HandlerMethodArgumentResolverComposite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-1" value="HandlerMethodArgumentResolverComposite" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-445" y="3400" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-2" value="HandlerMethodArgumentResolver" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-2" value="HandlerMethodArgumentResolver" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-445" y="3320" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-3" value="InvocableHandlerMethod#getMethodArgumentValues" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-3" value="InvocableHandlerMethod#getMethodArgumentValues" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-445" y="3240" width="325" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Http Message 转换成 Java Object&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Http Message 转换成 Java Object&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-460" y="3170" width="290" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-5" target="_K4YShypGptqXT68-Soc-6">
+        <mxCell id="_K4YShypGptqXT68-Soc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_K4YShypGptqXT68-Soc-5" target="_K4YShypGptqXT68-Soc-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-5" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-650" y="3590" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-6" target="_K4YShypGptqXT68-Soc-7">
+        <mxCell id="_K4YShypGptqXT68-Soc-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_K4YShypGptqXT68-Soc-6" target="_K4YShypGptqXT68-Soc-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-6" value="HTTP Message" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-6" value="HTTP Message" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-560" y="3590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-7" value="Servlet API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-7" value="Servlet API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-386.5" y="3590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-230" y="3530" width="260" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-9" target="_K4YShypGptqXT68-Soc-16">
+        <mxCell id="_K4YShypGptqXT68-Soc-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_K4YShypGptqXT68-Soc-9" target="_K4YShypGptqXT68-Soc-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-9" target="_K4YShypGptqXT68-Soc-18">
+        <mxCell id="_K4YShypGptqXT68-Soc-19" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="_K4YShypGptqXT68-Soc-9" target="_K4YShypGptqXT68-Soc-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-21" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-9" target="_K4YShypGptqXT68-Soc-20">
+        <mxCell id="_K4YShypGptqXT68-Soc-21" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="_K4YShypGptqXT68-Soc-9" target="_K4YShypGptqXT68-Soc-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-23" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-9" target="_K4YShypGptqXT68-Soc-22">
+        <mxCell id="_K4YShypGptqXT68-Soc-23" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_K4YShypGptqXT68-Soc-9" target="_K4YShypGptqXT68-Soc-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;HandlerMethodArgumentResolver&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zdFqW6kIlWK-Jbg1lNn0-2" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-9" target="zdFqW6kIlWK-Jbg1lNn0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_K4YShypGptqXT68-Soc-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;HandlerMethodArgumentResolver&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-210" y="3598.25" width="230" height="43.5" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sping MVC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Sping MVC&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-220" y="3540" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-7" target="_K4YShypGptqXT68-Soc-9">
+        <mxCell id="_K4YShypGptqXT68-Soc-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_K4YShypGptqXT68-Soc-7" target="_K4YShypGptqXT68-Soc-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Java Object&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-16" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Java Object&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="55" y="3590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ErrorsMethodArgumentResolver&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;支持&amp;nbsp;org.springframework.validation.Errors 类型参数&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ErrorsMethodArgumentResolver&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;支持&amp;nbsp;org.springframework.validation.Errors 类型参数&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-770" y="3750" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ExpressionValueMethodArgumentResolver&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;支持 @Value&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;注解参数和 SPEL 表达式&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;ExpressionValueMethodArgumentResolver&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;支持 @Value&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;注解参数和 SPEL 表达式&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="3750" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-25" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-22" target="_K4YShypGptqXT68-Soc-24">
+        <mxCell id="_K4YShypGptqXT68-Soc-25" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" source="_K4YShypGptqXT68-Soc-22" target="_K4YShypGptqXT68-Soc-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-27" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-22" target="_K4YShypGptqXT68-Soc-26">
+        <mxCell id="_K4YShypGptqXT68-Soc-27" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="_K4YShypGptqXT68-Soc-22" target="_K4YShypGptqXT68-Soc-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-22" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;AbstractMessageConverterMethodArgumentResolver&lt;br&gt;AbstractMessageConverterMethodProcessor&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;通过 HttpMessageConverter 将 HTTP Message 转换为 Java Object&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-22" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;AbstractMessageConverterMethodArgumentResolver&lt;br&gt;AbstractMessageConverterMethodProcessor&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;通过 HttpMessageConverter 将 HTTP Message 转换为 Java Object&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-86.5" y="3750" width="426.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-24" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;HttpEntityMethodProcessor&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;支持&amp;nbsp;HttpEntity 和&amp;nbsp;RequestEntity 类型参数&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-24" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;HttpEntityMethodProcessor&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;支持&amp;nbsp;HttpEntity 和&amp;nbsp;RequestEntity 类型参数&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-413" y="3890" width="326.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_K4YShypGptqXT68-Soc-26" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RequestResponseBodyMethodProcessor&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ff0000&quot;&gt;支持 @&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot; size=&quot;3&quot;&gt;RequestBody 注解的参数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_K4YShypGptqXT68-Soc-26" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;RequestResponseBodyMethodProcessor&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ff0000&quot;&gt;支持 @&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot; size=&quot;3&quot;&gt;RequestBody 注解的参数&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-66.5" y="3890" width="326.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zdFqW6kIlWK-Jbg1lNn0-1" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;MatrixVariableMapMethodArgumentResolver&lt;br&gt;&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;支持 @&lt;span style=&quot;background-color: initial;&quot;&gt;MatrixVariable&amp;nbsp;注解 Map 类型参数&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="3755" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zdFqW6kIlWK-Jbg1lNn0-3" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;MapMethodProcessor&lt;br&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;Map 类型没有注解标注的&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="3755" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zdFqW6kIlWK-Jbg1lNn0-4" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="_K4YShypGptqXT68-Soc-9" target="zdFqW6kIlWK-Jbg1lNn0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zdFqW6kIlWK-Jbg1lNn0-5" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;PathVariableMapMethodArgumentResolver&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;被 @&lt;/font&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;PathVariable 注解的 Map 类型&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff0000&quot;&gt;@&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;border-color: var(--border-color);&quot; color=&quot;#ff0000&quot;&gt;PathVariable value() 属性必须为空&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="3880" width="330" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
