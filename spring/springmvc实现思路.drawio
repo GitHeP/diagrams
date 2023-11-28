@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T06:54:54.712Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NwdYEULRcF_XgxKljIM2" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T06:56:46.028Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Krwns67BVWoL9V0xiF4I" version="22.1.4" type="github">
   <diagram name="第 1 页" id="0abql_iOvC0QdY2ZX0is">
     <mxGraphModel dx="2668" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -668,6 +668,9 @@
         </mxCell>
         <mxCell id="wAme3UlPmWFeaYKPA1oI-46" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;ResponseBodyEmitterReturnValueHandler&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 16px;&quot; color=&quot;#ff0000&quot;&gt;支持返回值类型&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font size=&quot;3&quot; color=&quot;#ff0000&quot;&gt;ResponseBodyEmitter 或 响应式编程库类型比如 rxjava,&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot; size=&quot;3&quot;&gt;Java 9+ Flow.Publisher , Reactor ,&amp;nbsp;kotlinx coroutines&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-22.19" y="5920" width="362.19" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wAme3UlPmWFeaYKPA1oI-48" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;StreamingResponseBodyReturnValueHandler&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;支持返回值类型&amp;nbsp;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;StreamingResponseBody&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-86.5" y="6040" width="331.88" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
