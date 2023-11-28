@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T06:58:42.391Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NigyNJHvbvJPxJ_RtTZf" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T07:12:32.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AsPst-qXE2miJQuTQLVa" version="22.1.4" type="github">
   <diagram name="第 1 页" id="0abql_iOvC0QdY2ZX0is">
     <mxGraphModel dx="2668" dy="525" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -642,8 +642,8 @@
         <mxCell id="wAme3UlPmWFeaYKPA1oI-37" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;HttpEntityMethodProcessor&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;支持返回值类型是 HttpEntity 但不包括&amp;nbsp;RequestEntity 类型&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-591.19" y="5480" width="434.37" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="wAme3UlPmWFeaYKPA1oI-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;RequestResponseBodyMethodProcessor&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;支持被 @ResponseBody 注解的类型或在方法上注解的任何类型&amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-610.3100000000001" y="5550" width="471.87" height="50" as="geometry" />
+        <mxCell id="wAme3UlPmWFeaYKPA1oI-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;RequestResponseBodyMethodProcessor&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;支持所在的处理器被 @ResponseBody 注解，或在方法上注解&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-610.31" y="5550" width="471.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wAme3UlPmWFeaYKPA1oI-39" value="&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font style=&quot;&quot;&gt;&lt;font style=&quot;&quot;&gt;AsyncTaskMethodReturnValueHandler&lt;br&gt;&lt;/font&gt;&lt;/font&gt;&lt;font color=&quot;#ff0000&quot;&gt;支持返回值是 WebAsyncTask 类型&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-31.879999999999995" y="5400" width="284.38" height="50" as="geometry" />
