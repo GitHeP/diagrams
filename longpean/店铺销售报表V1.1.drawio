@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T02:50:05.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pyjw_W1mNfYpfQZpXHom" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T01:59:07.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="l1JB4GM1zB_qvnRAkX5r" version="22.1.9" type="github">
   <diagram name="第 1 页" id="KKqlR6FgB6_UbVZdChz9">
     <mxGraphModel dx="1014" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,6 +23,45 @@
         </mxCell>
         <mxCell id="1O9akU2l36xOs_Ss0mPB-56" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;店铺天维度数据集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="310" width="166" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="1O9akU2l36xOs_Ss0mPB-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1O9akU2l36xOs_Ss0mPB-60" target="1O9akU2l36xOs_Ss0mPB-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O9akU2l36xOs_Ss0mPB-60" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="393" y="550" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1O9akU2l36xOs_Ss0mPB-68" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="90" y="790" width="308.37" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1O9akU2l36xOs_Ss0mPB-69" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;订单时间（order_time）维度聚合记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="98.31" y="830" width="290.06" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1O9akU2l36xOs_Ss0mPB-71" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;发货时间（closing_date）维度聚合记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="98.31" y="870" width="290.06" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1O9akU2l36xOs_Ss0mPB-72" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;更新店铺销售月维度聚合表&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="92.37" y="790" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1O9akU2l36xOs_Ss0mPB-73" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;写入\更新店铺销售订单维度表&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="329.5" y="660" width="227" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1O9akU2l36xOs_Ss0mPB-74" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="526" y="790" width="308.37" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1O9akU2l36xOs_Ss0mPB-75" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;订单时间（order_time）维度聚合记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="534.31" y="830" width="290.06" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1O9akU2l36xOs_Ss0mPB-76" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;发货时间（closing_date）维度聚合记录&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="534.31" y="870" width="290.06" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1O9akU2l36xOs_Ss0mPB-77" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;更新店铺销售天维度聚合表&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="528.37" y="790" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1O9akU2l36xOs_Ss0mPB-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.63;entryY=-0.048;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="1O9akU2l36xOs_Ss0mPB-73" target="1O9akU2l36xOs_Ss0mPB-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1O9akU2l36xOs_Ss0mPB-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.674;entryY=0.057;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1O9akU2l36xOs_Ss0mPB-73" target="1O9akU2l36xOs_Ss0mPB-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
