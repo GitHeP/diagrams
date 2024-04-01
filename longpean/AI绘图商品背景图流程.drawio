@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T09:25:57.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.2.1" etag="ARWI5-m3HdqllCLXOlQn" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T09:34:33.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="LdH6LoqrC_LYMJIx0_1N" version="24.2.1" type="github">
   <diagram name="第 1 页" id="NlHFmR3OwGNAqyNhML3m">
-    <mxGraphModel>
+    <mxGraphModel dx="1014" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TcUGDIKqnXqcHKgOAkxR-1" target="TcUGDIKqnXqcHKgOAkxR-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;上传商品图&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TcUGDIKqnXqcHKgOAkxR-4">
+          <mxGeometry x="-0.2318" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;商品背景图&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TcUGDIKqnXqcHKgOAkxR-3" target="TcUGDIKqnXqcHKgOAkxR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;抠图&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;得到白底商品图&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;和透明底商品图&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="311" y="270" width="206" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TcUGDIKqnXqcHKgOAkxR-6" target="TcUGDIKqnXqcHKgOAkxR-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;将关键参数白底商品图，透明底商品图，背景相关参数传给后端&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TcUGDIKqnXqcHKgOAkxR-9">
+          <mxGeometry x="-0.1095" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;选择预设场景得到 Prompt&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="311" y="380" width="206" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TcUGDIKqnXqcHKgOAkxR-8" target="TcUGDIKqnXqcHKgOAkxR-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;调用 SD API 生成背景图&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TcUGDIKqnXqcHKgOAkxR-12">
+          <mxGeometry x="-0.1247" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-8" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;后端服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="311" y="500" width="206" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TcUGDIKqnXqcHKgOAkxR-11" target="TcUGDIKqnXqcHKgOAkxR-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;SD 服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="311" y="620" width="206" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TcUGDIKqnXqcHKgOAkxR-16" target="TcUGDIKqnXqcHKgOAkxR-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;SD&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;生成&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;背景结果图片后&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;后端将该图片与透明底&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;商品背景图进行叠加融合为一张图片&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="311" y="700" width="206" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TcUGDIKqnXqcHKgOAkxR-18" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;结束&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="820" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
